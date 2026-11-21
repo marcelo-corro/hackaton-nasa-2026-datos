@@ -506,3 +506,4 @@ fecha,hora_utc,lat,lon,sensor,satelite,confianza,frp,tipo
 2025-02-17,0556,-39.3314,-71.8267,VIIRS,NOAA20,nominal,0.7,0
 2025-02-17,0556,-39.3291,-71.8268,VIIRS,NOAA20,nominal,0.5,0
 2026-06-14,0505,-39.2674,-71.9195,VIIRS,SNPP,nominal,1.5,0
+2026-08-21,0551,-39.4193,-71.9395,VIIRS,NOAA20,nominal,1.0,0

@@ -39,9 +39,9 @@ li { margin: .35rem 0; }
 
 <div class="estado">
 <p><strong>Datos reales de 345 comunas de Chile</strong> (contrato v0.8).</p>
-<p>Período: 2000-11 a 2025-12. Generado: <code>2026-11-21T11:27:43Z</code> (UTC).</p>
-<p>Riesgo a 24 h para el <code>2026-11-21</code> (modelo <code>hgb_firms_clima_v3</code>). Los datos de focos llegan hasta el último día del período, así que el riesgo es para el día siguiente a ese límite; no es un pronóstico en tiempo real.</p>
-<p>Métricas del modelo (prueba 2022-2025): AUC 0.845, <a href="metricas.json">ver detalle</a>.</p>
+<p>Período: 2000-11 a 2025-12. Generado: <code>2026-11-21T16:54:15Z</code> (UTC).</p>
+<p>Riesgo a 24 h para el <code>2026-11-22</code> (modelo <code>hgb_firms_clima_v3</code>). Los datos de focos llegan hasta el último día del período, así que el riesgo es para el día siguiente a ese límite; no es un pronóstico en tiempo real.</p>
+<p>Métricas del modelo (prueba 2022-2025): AUC 0.847, <a href="metricas.json">ver detalle</a>.</p>
 </div>
 
 <h2>Qué es esto</h2>
@@ -82,7 +82,7 @@ Las cifras armonizadas están en <em>focos equivalentes MODIS</em>.</p>
 <li>Se cuentan <strong>detecciones</strong> de vegetación con confianza nominal o alta, no incendios ni superficie quemada.</li>
 <li>A escala de una comuna y un mes el error de la armonización es alto; conviene mirar agregados y el intervalo
 <code>armonizado_p05</code>–<code>armonizado_p95</code>.</li>
-<li>Probado en 2022-2025. Donde ya hay fuego, sus alertas acertaron 31 % de las veces y cubrieron 79 % de los días con fuego. Para incendios nuevos sus alertas acertaron 15 % (la tasa base es 2.4 %), pero 82 % de los incendios nuevos empezó sin alerta: la mayoría de las igniciones son humanas.</li>
+<li>Probado en 2022-2025. Donde ya hay fuego, sus alertas acertaron 31 % de las veces y cubrieron 82 % de los días con fuego. Para incendios nuevos sus alertas acertaron 15 % (la tasa base es 2.2 %), pero 82 % de los incendios nuevos empezó sin alerta: la mayoría de las igniciones son humanas.</li>
 </ul>
 
 <p class="suave">Estos archivos se generan automáticamente; no se editan a mano.</p>
