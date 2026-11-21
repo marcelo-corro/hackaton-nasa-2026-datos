@@ -14,9 +14,11 @@ Chile, con su calendario mensual de actividad de quema. El código que los gener
 > - **Actualización diaria** cerca de las 11:20 UTC (08:20 en Chile con horario de verano), con
 >   [GitHub Actions](.github/workflows/actualizar.yml). Si algo falla, queda en línea lo del día anterior.
 > - **Riesgo de focos por comuna** para mañana (24 h), mañana o pasado (48 h) y los próximos 7 días (orientativo).
->   El modelo (`hgb_firms_clima_v3`) se probó en 2022-2025; sus métricas están en `metricas.json`.
-> - **Focos satelitales** (NASA FIRMS) hasta el día de la publicación; el clima (NASA POWER) llega con unos 4 días
->   de rezago. La fecha de cada fuente está en `manifest.json → datos`.
+>   El modelo usa el clima del día y el de los días que predice; se probó en 2022-2025 y sus métricas están en
+>   `metricas.json`.
+> - **Focos satelitales** (NASA FIRMS) hasta el día de la publicación. El clima histórico es de NASA POWER, que llega
+>   con unos 4 días de rezago: esos días y los que se predicen usan el pronóstico de Open-Meteo. La fecha de cada
+>   fuente está en `manifest.json → datos`.
 > - **Serie armonizada** MODIS/VIIRS de noviembre de 2000 a diciembre de 2025, método
 >   `factor_unico_snpp_2012-2017_v1`, en focos equivalentes MODIS.
 > - **Piloto de sectores** en la Región de Valparaíso: dónde revisar primero dentro de cada comuna.
@@ -59,6 +61,8 @@ formato de cada archivo está en el
 - **NASA POWER** (clima por comuna): The data was obtained from National Aeronautics and Space Administration (NASA)
   Langley Research Center's Prediction Of Worldwide Energy Resources (POWER) project funded through the NASA Earth
   Science Division. Versión Daily 2.10.3.
+- **Open-Meteo** (pronóstico del tiempo por comuna, desde el 21-11-2026): [Weather data by Open-Meteo.com](https://open-meteo.com/)
+  (CC BY 4.0). Zippenfenig, P. (2023). Open-Meteo.com Weather API. Zenodo. https://doi.org/10.5281/ZENODO.7970649
 - **Sectores de la Región de Valparaíso:**
   - Zanaga, D. et al. (2022). *ESA WorldCover 10 m 2021 v200*. Zenodo. https://doi.org/10.5281/zenodo.7254221
     (CC BY 4.0).
