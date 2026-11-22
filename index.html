@@ -39,9 +39,9 @@ li { margin: .35rem 0; }
 
 <div class="estado">
 <p><strong>Datos reales de 345 comunas de Chile</strong> (contrato v0.8).</p>
-<p>Período: 2000-11 a 2025-12. Generado: <code>2026-11-21T16:54:15Z</code> (UTC).</p>
-<p>Riesgo a 24 h para el <code>2026-11-22</code> (modelo <code>hgb_firms_clima_v3</code>). Los datos de focos llegan hasta el último día del período, así que el riesgo es para el día siguiente a ese límite; no es un pronóstico en tiempo real.</p>
-<p>Métricas del modelo (prueba 2022-2025): AUC 0.847, <a href="metricas.json">ver detalle</a>.</p>
+<p>Período: 2000-11 a 2025-12. Generado: <code>2026-11-22T11:27:26Z</code> (UTC).</p>
+<p>Riesgo a 24 h para el <code>2026-11-23</code> (modelo <code>hgb_firms_clima_pronostico_v4</code>). Los datos de focos llegan hasta el último día del período, así que el riesgo es para el día siguiente a ese límite; no es un pronóstico en tiempo real.</p>
+<p>Métricas del modelo (prueba 2022-2025): AUC 0.858, <a href="metricas.json">ver detalle</a>.</p>
 </div>
 
 <h2>Qué es esto</h2>
@@ -75,6 +75,7 @@ Las cifras armonizadas están en <em>focos equivalentes MODIS</em>.</p>
 </ul></li>
 <li><strong>Biblioteca del Congreso Nacional de Chile (BCN)</strong> (límites comunales). Biblioteca del Congreso Nacional de Chile, División comunal: polígonos de las comunas de Chile. https://www.bcn.cl/siit/mapas_vectoriales. Material referencial.</li>
 <li><strong>NASA POWER</strong> (clima diario, insumo del modelo de riesgo). The data was obtained from National Aeronautics and Space Administration (NASA) Langley Research Center&#x27;s Prediction Of Worldwide Energy Resources (POWER) project funded through the NASA Earth Science Division. The data was obtained from the POWER Project&#x27;s Daily 2.10.3 version on 2026/11/14. https://power.larc.nasa.gov/</li>
+<li><strong>Open-Meteo</strong> (pronóstico del tiempo: rellena los días que NASA POWER aún no publica y da el clima de los días que se predicen). <a href="https://open-meteo.com/">Weather data by Open-Meteo.com</a> (CC BY 4.0).</li>
 </ul>
 
 <h2>Límites</h2>
@@ -82,7 +83,7 @@ Las cifras armonizadas están en <em>focos equivalentes MODIS</em>.</p>
 <li>Se cuentan <strong>detecciones</strong> de vegetación con confianza nominal o alta, no incendios ni superficie quemada.</li>
 <li>A escala de una comuna y un mes el error de la armonización es alto; conviene mirar agregados y el intervalo
 <code>armonizado_p05</code>–<code>armonizado_p95</code>.</li>
-<li>Probado en 2022-2025. Donde ya hay fuego, sus alertas acertaron 31 % de las veces y cubrieron 82 % de los días con fuego. Para incendios nuevos sus alertas acertaron 15 % (la tasa base es 2.2 %), pero 82 % de los incendios nuevos empezó sin alerta: la mayoría de las igniciones son humanas.</li>
+<li>Probado en 2022-2025. Donde ya hay fuego, sus alertas acertaron 33 % de las veces y cubrieron 84 % de los días con fuego. Para incendios nuevos sus alertas acertaron 14 % (la tasa base es 2.2 %), pero 77 % de los incendios nuevos empezó sin alerta: la mayoría de las igniciones son humanas. Con el clima observado del día que predice; con el pronóstico real de Open-Meteo (2024-2025, 80 comunas con más fuego) la precisión media a 24 h fue 0.32 (antes, con el clima de hace 4 días, 0.25).</li>
 </ul>
 
 <p class="suave">Estos archivos se generan automáticamente; no se editan a mano.</p>

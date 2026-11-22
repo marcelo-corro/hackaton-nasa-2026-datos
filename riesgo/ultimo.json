@@ -1,1863 +1,1863 @@
 {
   "contrato": "0.8",
   "ejemplo": false,
-  "calculado_utc": "2026-11-21T16:54:19Z",
-  "valido_para": "2026-11-22",
+  "calculado_utc": "2026-11-22T11:27:29Z",
+  "valido_para": "2026-11-23",
   "horizonte_horas": 24,
-  "modelo": "hgb_firms_clima_v3",
+  "modelo": "hgb_firms_clima_pronostico_v4",
   "items": [
     {
       "region_id": "01101",
-      "prob_foco": 0.007,
-      "percentil": 78.1,
+      "prob_foco": 0.003,
+      "percentil": 3.0,
       "nivel": "bajo"
     },
     {
       "region_id": "01107",
-      "prob_foco": 0.016,
-      "percentil": 62.4,
+      "prob_foco": 0.019,
+      "percentil": 88.6,
       "nivel": "bajo"
     },
     {
       "region_id": "01401",
-      "prob_foco": 0.02,
-      "percentil": 3.2,
+      "prob_foco": 0.022,
+      "percentil": 11.6,
       "nivel": "bajo"
     },
     {
       "region_id": "01402",
-      "prob_foco": 0.006,
-      "percentil": 31.1,
+      "prob_foco": 0.007,
+      "percentil": 27.0,
       "nivel": "bajo"
     },
     {
       "region_id": "01403",
-      "prob_foco": 0.037,
-      "percentil": 20.4,
-      "nivel": "bajo"
+      "prob_foco": 0.046,
+      "percentil": 64.9,
+      "nivel": "medio"
     },
     {
       "region_id": "01404",
-      "prob_foco": 0.022,
-      "percentil": 23.6,
+      "prob_foco": 0.026,
+      "percentil": 52.7,
       "nivel": "bajo"
     },
     {
       "region_id": "01405",
-      "prob_foco": 0.017,
-      "percentil": 39.6,
+      "prob_foco": 0.016,
+      "percentil": 43.8,
       "nivel": "bajo"
     },
     {
       "region_id": "02101",
-      "prob_foco": 0.039,
-      "percentil": 45.8,
-      "nivel": "bajo"
+      "prob_foco": 0.05,
+      "percentil": 67.6,
+      "nivel": "medio"
     },
     {
       "region_id": "02102",
-      "prob_foco": 0.006,
-      "percentil": 46.5,
+      "prob_foco": 0.01,
+      "percentil": 80.9,
       "nivel": "bajo"
     },
     {
       "region_id": "02103",
-      "prob_foco": 0.022,
-      "percentil": 60.9,
+      "prob_foco": 0.026,
+      "percentil": 53.5,
       "nivel": "bajo"
     },
     {
       "region_id": "02104",
-      "prob_foco": 0.022,
-      "percentil": 66.9,
+      "prob_foco": 0.024,
+      "percentil": 25.7,
       "nivel": "bajo"
     },
     {
       "region_id": "02201",
       "prob_foco": 0.039,
-      "percentil": 24.6,
+      "percentil": 25.2,
       "nivel": "bajo"
     },
     {
       "region_id": "02202",
-      "prob_foco": 0.002,
-      "percentil": 44.3,
+      "prob_foco": 0.001,
+      "percentil": 20.0,
       "nivel": "bajo"
     },
     {
       "region_id": "02203",
-      "prob_foco": 0.021,
-      "percentil": 11.4,
+      "prob_foco": 0.019,
+      "percentil": 17.3,
       "nivel": "bajo"
     },
     {
       "region_id": "02301",
       "prob_foco": 0.009,
-      "percentil": 68.4,
+      "percentil": 54.0,
       "nivel": "bajo"
     },
     {
       "region_id": "02302",
-      "prob_foco": 0.02,
-      "percentil": 25.4,
+      "prob_foco": 0.016,
+      "percentil": 17.3,
       "nivel": "bajo"
     },
     {
       "region_id": "03101",
-      "prob_foco": 0.038,
-      "percentil": 29.9,
-      "nivel": "bajo"
-    },
-    {
-      "region_id": "03102",
-      "prob_foco": 0.004,
-      "percentil": 41.3,
-      "nivel": "bajo"
-    },
-    {
-      "region_id": "03103",
-      "prob_foco": 0.043,
-      "percentil": 15.2,
-      "nivel": "medio"
-    },
-    {
-      "region_id": "03201",
-      "prob_foco": 0.02,
-      "percentil": 13.9,
-      "nivel": "bajo"
-    },
-    {
-      "region_id": "03202",
-      "prob_foco": 0.038,
-      "percentil": 53.5,
-      "nivel": "bajo"
-    },
-    {
-      "region_id": "03301",
-      "prob_foco": 0.03,
-      "percentil": 44.3,
-      "nivel": "bajo"
-    },
-    {
-      "region_id": "03302",
-      "prob_foco": 0.01,
-      "percentil": 21.9,
-      "nivel": "bajo"
-    },
-    {
-      "region_id": "03303",
-      "prob_foco": 0.006,
-      "percentil": 15.4,
-      "nivel": "bajo"
-    },
-    {
-      "region_id": "03304",
-      "prob_foco": 0.006,
-      "percentil": 21.9,
-      "nivel": "bajo"
-    },
-    {
-      "region_id": "04101",
       "prob_foco": 0.022,
-      "percentil": 50.5,
-      "nivel": "bajo"
-    },
-    {
-      "region_id": "04102",
-      "prob_foco": 0.013,
-      "percentil": 70.4,
-      "nivel": "bajo"
-    },
-    {
-      "region_id": "04103",
-      "prob_foco": 0.003,
-      "percentil": 81.3,
-      "nivel": "bajo"
-    },
-    {
-      "region_id": "04104",
-      "prob_foco": 0.039,
-      "percentil": 21.9,
-      "nivel": "bajo"
-    },
-    {
-      "region_id": "04105",
-      "prob_foco": 0.01,
-      "percentil": 61.7,
-      "nivel": "bajo"
-    },
-    {
-      "region_id": "04106",
-      "prob_foco": 0.017,
-      "percentil": 4.0,
-      "nivel": "bajo"
-    },
-    {
-      "region_id": "04201",
-      "prob_foco": 0.006,
-      "percentil": 5.0,
-      "nivel": "bajo"
-    },
-    {
-      "region_id": "04202",
-      "prob_foco": 0.009,
-      "percentil": 72.6,
-      "nivel": "bajo"
-    },
-    {
-      "region_id": "04203",
-      "prob_foco": 0.013,
-      "percentil": 24.9,
-      "nivel": "bajo"
-    },
-    {
-      "region_id": "04204",
-      "prob_foco": 0.016,
-      "percentil": 20.9,
-      "nivel": "bajo"
-    },
-    {
-      "region_id": "04301",
-      "prob_foco": 0.076,
-      "percentil": 6.0,
-      "nivel": "medio"
-    },
-    {
-      "region_id": "04302",
-      "prob_foco": 0.009,
-      "percentil": 47.0,
-      "nivel": "bajo"
-    },
-    {
-      "region_id": "04303",
-      "prob_foco": 0.02,
-      "percentil": 10.0,
-      "nivel": "bajo"
-    },
-    {
-      "region_id": "04304",
-      "prob_foco": 0.013,
-      "percentil": 27.1,
-      "nivel": "bajo"
-    },
-    {
-      "region_id": "04305",
-      "prob_foco": 0.004,
-      "percentil": 9.2,
-      "nivel": "bajo"
-    },
-    {
-      "region_id": "05101",
-      "prob_foco": 0.022,
-      "percentil": 50.2,
-      "nivel": "bajo"
-    },
-    {
-      "region_id": "05102",
-      "prob_foco": 0.039,
-      "percentil": 59.2,
-      "nivel": "bajo"
-    },
-    {
-      "region_id": "05103",
-      "prob_foco": 0.002,
-      "percentil": 16.2,
-      "nivel": "bajo"
-    },
-    {
-      "region_id": "05104",
-      "prob_foco": 0.0,
-      "percentil": 38.6,
-      "nivel": "bajo"
-    },
-    {
-      "region_id": "05105",
-      "prob_foco": 0.006,
-      "percentil": 31.3,
-      "nivel": "bajo"
-    },
-    {
-      "region_id": "05107",
-      "prob_foco": 0.006,
-      "percentil": 14.9,
-      "nivel": "bajo"
-    },
-    {
-      "region_id": "05109",
-      "prob_foco": 0.009,
-      "percentil": 28.6,
-      "nivel": "bajo"
-    },
-    {
-      "region_id": "05201",
-      "prob_foco": 0.009,
-      "percentil": 13.9,
-      "nivel": "bajo"
-    },
-    {
-      "region_id": "05301",
-      "prob_foco": 0.002,
-      "percentil": 8.7,
-      "nivel": "bajo"
-    },
-    {
-      "region_id": "05302",
-      "prob_foco": 0.009,
-      "percentil": 51.5,
-      "nivel": "bajo"
-    },
-    {
-      "region_id": "05303",
-      "prob_foco": 0.003,
-      "percentil": 6.2,
-      "nivel": "bajo"
-    },
-    {
-      "region_id": "05304",
-      "prob_foco": 0.012,
-      "percentil": 87.8,
-      "nivel": "bajo"
-    },
-    {
-      "region_id": "05401",
-      "prob_foco": 0.013,
-      "percentil": 4.5,
-      "nivel": "bajo"
-    },
-    {
-      "region_id": "05402",
-      "prob_foco": 0.016,
-      "percentil": 10.0,
-      "nivel": "bajo"
-    },
-    {
-      "region_id": "05403",
-      "prob_foco": 0.003,
-      "percentil": 24.6,
-      "nivel": "bajo"
-    },
-    {
-      "region_id": "05404",
-      "prob_foco": 0.009,
-      "percentil": 8.7,
-      "nivel": "bajo"
-    },
-    {
-      "region_id": "05405",
-      "prob_foco": 0.01,
-      "percentil": 74.4,
-      "nivel": "bajo"
-    },
-    {
-      "region_id": "05501",
-      "prob_foco": 0.016,
-      "percentil": 3.7,
-      "nivel": "bajo"
-    },
-    {
-      "region_id": "05502",
-      "prob_foco": 0.004,
-      "percentil": 12.2,
-      "nivel": "bajo"
-    },
-    {
-      "region_id": "05503",
-      "prob_foco": 0.01,
-      "percentil": 3.0,
-      "nivel": "bajo"
-    },
-    {
-      "region_id": "05504",
-      "prob_foco": 0.006,
-      "percentil": 20.6,
-      "nivel": "bajo"
-    },
-    {
-      "region_id": "05506",
-      "prob_foco": 0.021,
-      "percentil": 10.9,
-      "nivel": "bajo"
-    },
-    {
-      "region_id": "05601",
-      "prob_foco": 0.039,
-      "percentil": 75.1,
-      "nivel": "bajo"
-    },
-    {
-      "region_id": "05602",
-      "prob_foco": 0.003,
-      "percentil": 14.7,
-      "nivel": "bajo"
-    },
-    {
-      "region_id": "05603",
-      "prob_foco": 0.003,
-      "percentil": 1.7,
-      "nivel": "bajo"
-    },
-    {
-      "region_id": "05604",
-      "prob_foco": 0.003,
-      "percentil": 13.9,
-      "nivel": "bajo"
-    },
-    {
-      "region_id": "05605",
-      "prob_foco": 0.006,
-      "percentil": 67.2,
-      "nivel": "bajo"
-    },
-    {
-      "region_id": "05606",
-      "prob_foco": 0.009,
-      "percentil": 28.1,
-      "nivel": "bajo"
-    },
-    {
-      "region_id": "05701",
-      "prob_foco": 0.013,
-      "percentil": 7.7,
-      "nivel": "bajo"
-    },
-    {
-      "region_id": "05702",
-      "prob_foco": 0.01,
-      "percentil": 44.8,
-      "nivel": "bajo"
-    },
-    {
-      "region_id": "05703",
-      "prob_foco": 0.012,
-      "percentil": 4.2,
-      "nivel": "bajo"
-    },
-    {
-      "region_id": "05704",
-      "prob_foco": 0.016,
-      "percentil": 12.2,
-      "nivel": "bajo"
-    },
-    {
-      "region_id": "05705",
-      "prob_foco": 0.013,
-      "percentil": 67.9,
-      "nivel": "bajo"
-    },
-    {
-      "region_id": "05706",
-      "prob_foco": 0.009,
-      "percentil": 44.3,
-      "nivel": "bajo"
-    },
-    {
-      "region_id": "05801",
-      "prob_foco": 0.013,
-      "percentil": 6.7,
-      "nivel": "bajo"
-    },
-    {
-      "region_id": "05802",
-      "prob_foco": 0.02,
-      "percentil": 9.0,
-      "nivel": "bajo"
-    },
-    {
-      "region_id": "05803",
-      "prob_foco": 0.013,
-      "percentil": 16.2,
-      "nivel": "bajo"
-    },
-    {
-      "region_id": "05804",
-      "prob_foco": 0.013,
-      "percentil": 4.2,
-      "nivel": "bajo"
-    },
-    {
-      "region_id": "06101",
-      "prob_foco": 0.022,
-      "percentil": 16.9,
-      "nivel": "bajo"
-    },
-    {
-      "region_id": "06102",
-      "prob_foco": 0.037,
-      "percentil": 55.5,
-      "nivel": "bajo"
-    },
-    {
-      "region_id": "06103",
-      "prob_foco": 0.01,
-      "percentil": 8.0,
-      "nivel": "bajo"
-    },
-    {
-      "region_id": "06104",
-      "prob_foco": 0.01,
-      "percentil": 10.0,
-      "nivel": "bajo"
-    },
-    {
-      "region_id": "06105",
-      "prob_foco": 0.003,
-      "percentil": 9.7,
-      "nivel": "bajo"
-    },
-    {
-      "region_id": "06106",
-      "prob_foco": 0.012,
-      "percentil": 15.9,
-      "nivel": "bajo"
-    },
-    {
-      "region_id": "06107",
-      "prob_foco": 0.043,
-      "percentil": 30.3,
-      "nivel": "medio"
-    },
-    {
-      "region_id": "06108",
-      "prob_foco": 0.02,
-      "percentil": 47.0,
-      "nivel": "bajo"
-    },
-    {
-      "region_id": "06109",
-      "prob_foco": 0.017,
-      "percentil": 16.9,
-      "nivel": "bajo"
-    },
-    {
-      "region_id": "06110",
-      "prob_foco": 0.022,
-      "percentil": 13.4,
-      "nivel": "bajo"
-    },
-    {
-      "region_id": "06111",
-      "prob_foco": 0.003,
-      "percentil": 7.2,
-      "nivel": "bajo"
-    },
-    {
-      "region_id": "06112",
-      "prob_foco": 0.017,
-      "percentil": 19.2,
-      "nivel": "bajo"
-    },
-    {
-      "region_id": "06113",
-      "prob_foco": 0.021,
-      "percentil": 8.0,
-      "nivel": "bajo"
-    },
-    {
-      "region_id": "06114",
-      "prob_foco": 0.006,
-      "percentil": 3.7,
-      "nivel": "bajo"
-    },
-    {
-      "region_id": "06115",
-      "prob_foco": 0.038,
-      "percentil": 22.1,
-      "nivel": "bajo"
-    },
-    {
-      "region_id": "06116",
-      "prob_foco": 0.022,
-      "percentil": 61.9,
-      "nivel": "bajo"
-    },
-    {
-      "region_id": "06117",
-      "prob_foco": 0.038,
-      "percentil": 10.7,
-      "nivel": "bajo"
-    },
-    {
-      "region_id": "06201",
-      "prob_foco": 0.006,
-      "percentil": 6.5,
-      "nivel": "bajo"
-    },
-    {
-      "region_id": "06202",
-      "prob_foco": 0.02,
-      "percentil": 27.4,
-      "nivel": "bajo"
-    },
-    {
-      "region_id": "06203",
-      "prob_foco": 0.012,
-      "percentil": 10.7,
-      "nivel": "bajo"
-    },
-    {
-      "region_id": "06204",
-      "prob_foco": 0.03,
-      "percentil": 31.3,
-      "nivel": "bajo"
-    },
-    {
-      "region_id": "06205",
-      "prob_foco": 0.007,
-      "percentil": 57.0,
-      "nivel": "bajo"
-    },
-    {
-      "region_id": "06206",
-      "prob_foco": 0.013,
-      "percentil": 41.3,
-      "nivel": "bajo"
-    },
-    {
-      "region_id": "06301",
-      "prob_foco": 0.03,
-      "percentil": 39.1,
-      "nivel": "bajo"
-    },
-    {
-      "region_id": "06302",
-      "prob_foco": 0.022,
-      "percentil": 38.1,
-      "nivel": "bajo"
-    },
-    {
-      "region_id": "06303",
-      "prob_foco": 0.022,
-      "percentil": 16.2,
-      "nivel": "bajo"
-    },
-    {
-      "region_id": "06304",
-      "prob_foco": 0.017,
-      "percentil": 16.2,
-      "nivel": "bajo"
-    },
-    {
-      "region_id": "06305",
-      "prob_foco": 0.016,
-      "percentil": 7.2,
-      "nivel": "bajo"
-    },
-    {
-      "region_id": "06306",
-      "prob_foco": 0.01,
-      "percentil": 3.2,
-      "nivel": "bajo"
-    },
-    {
-      "region_id": "06307",
-      "prob_foco": 0.022,
-      "percentil": 17.4,
-      "nivel": "bajo"
-    },
-    {
-      "region_id": "06308",
-      "prob_foco": 0.01,
-      "percentil": 41.0,
-      "nivel": "bajo"
-    },
-    {
-      "region_id": "06309",
-      "prob_foco": 0.009,
-      "percentil": 14.4,
-      "nivel": "bajo"
-    },
-    {
-      "region_id": "06310",
-      "prob_foco": 0.03,
-      "percentil": 78.1,
-      "nivel": "bajo"
-    },
-    {
-      "region_id": "07101",
-      "prob_foco": 0.022,
-      "percentil": 37.3,
-      "nivel": "bajo"
-    },
-    {
-      "region_id": "07102",
-      "prob_foco": 0.004,
-      "percentil": 2.2,
-      "nivel": "bajo"
-    },
-    {
-      "region_id": "07103",
-      "prob_foco": 0.017,
-      "percentil": 45.8,
-      "nivel": "bajo"
-    },
-    {
-      "region_id": "07104",
-      "prob_foco": 0.006,
-      "percentil": 4.5,
-      "nivel": "bajo"
-    },
-    {
-      "region_id": "07105",
-      "prob_foco": 0.022,
-      "percentil": 56.2,
-      "nivel": "bajo"
-    },
-    {
-      "region_id": "07106",
-      "prob_foco": 0.009,
-      "percentil": 2.7,
-      "nivel": "bajo"
-    },
-    {
-      "region_id": "07107",
-      "prob_foco": 0.03,
-      "percentil": 61.7,
-      "nivel": "bajo"
-    },
-    {
-      "region_id": "07108",
-      "prob_foco": 0.016,
-      "percentil": 4.7,
-      "nivel": "bajo"
-    },
-    {
-      "region_id": "07109",
-      "prob_foco": 0.038,
-      "percentil": 34.1,
-      "nivel": "bajo"
-    },
-    {
-      "region_id": "07110",
-      "prob_foco": 0.012,
-      "percentil": 3.0,
-      "nivel": "bajo"
-    },
-    {
-      "region_id": "07201",
-      "prob_foco": 0.016,
-      "percentil": 1.2,
-      "nivel": "bajo"
-    },
-    {
-      "region_id": "07202",
-      "prob_foco": 0.01,
-      "percentil": 31.8,
-      "nivel": "bajo"
-    },
-    {
-      "region_id": "07203",
-      "prob_foco": 0.004,
-      "percentil": 2.2,
-      "nivel": "bajo"
-    },
-    {
-      "region_id": "07301",
-      "prob_foco": 0.076,
-      "percentil": 78.6,
-      "nivel": "medio"
-    },
-    {
-      "region_id": "07302",
-      "prob_foco": 0.017,
-      "percentil": 33.8,
-      "nivel": "bajo"
-    },
-    {
-      "region_id": "07303",
-      "prob_foco": 0.006,
-      "percentil": 35.3,
-      "nivel": "bajo"
-    },
-    {
-      "region_id": "07304",
-      "prob_foco": 0.02,
-      "percentil": 8.7,
-      "nivel": "bajo"
-    },
-    {
-      "region_id": "07305",
-      "prob_foco": 0.009,
-      "percentil": 8.2,
-      "nivel": "bajo"
-    },
-    {
-      "region_id": "07306",
-      "prob_foco": 0.026,
-      "percentil": 20.6,
-      "nivel": "bajo"
-    },
-    {
-      "region_id": "07307",
-      "prob_foco": 0.009,
-      "percentil": 3.2,
-      "nivel": "bajo"
-    },
-    {
-      "region_id": "07308",
-      "prob_foco": 0.03,
-      "percentil": 26.6,
-      "nivel": "bajo"
-    },
-    {
-      "region_id": "07309",
-      "prob_foco": 0.013,
-      "percentil": 55.2,
-      "nivel": "bajo"
-    },
-    {
-      "region_id": "07401",
-      "prob_foco": 0.037,
-      "percentil": 7.0,
-      "nivel": "bajo"
-    },
-    {
-      "region_id": "07402",
-      "prob_foco": 0.051,
-      "percentil": 14.4,
-      "nivel": "medio"
-    },
-    {
-      "region_id": "07403",
-      "prob_foco": 0.05,
-      "percentil": 9.2,
-      "nivel": "medio"
-    },
-    {
-      "region_id": "07404",
-      "prob_foco": 0.038,
-      "percentil": 7.0,
-      "nivel": "bajo"
-    },
-    {
-      "region_id": "07405",
-      "prob_foco": 0.022,
-      "percentil": 6.0,
-      "nivel": "bajo"
-    },
-    {
-      "region_id": "07406",
-      "prob_foco": 0.064,
-      "percentil": 50.2,
-      "nivel": "medio"
-    },
-    {
-      "region_id": "07407",
-      "prob_foco": 0.03,
-      "percentil": 29.9,
-      "nivel": "bajo"
-    },
-    {
-      "region_id": "07408",
-      "prob_foco": 0.02,
-      "percentil": 5.7,
-      "nivel": "bajo"
-    },
-    {
-      "region_id": "08101",
-      "prob_foco": 0.003,
-      "percentil": 3.0,
-      "nivel": "bajo"
-    },
-    {
-      "region_id": "08102",
-      "prob_foco": 0.001,
-      "percentil": 1.7,
-      "nivel": "bajo"
-    },
-    {
-      "region_id": "08103",
-      "prob_foco": 0.001,
-      "percentil": 1.7,
-      "nivel": "bajo"
-    },
-    {
-      "region_id": "08104",
-      "prob_foco": 0.003,
-      "percentil": 1.2,
-      "nivel": "bajo"
-    },
-    {
-      "region_id": "08105",
-      "prob_foco": 0.012,
-      "percentil": 6.0,
-      "nivel": "bajo"
-    },
-    {
-      "region_id": "08106",
-      "prob_foco": 0.001,
-      "percentil": 1.7,
-      "nivel": "bajo"
-    },
-    {
-      "region_id": "08107",
-      "prob_foco": 0.009,
-      "percentil": 15.4,
-      "nivel": "bajo"
-    },
-    {
-      "region_id": "08108",
-      "prob_foco": 0.001,
-      "percentil": 2.2,
-      "nivel": "bajo"
-    },
-    {
-      "region_id": "08109",
-      "prob_foco": 0.001,
-      "percentil": 1.2,
-      "nivel": "bajo"
-    },
-    {
-      "region_id": "08110",
-      "prob_foco": 0.001,
-      "percentil": 4.5,
-      "nivel": "bajo"
-    },
-    {
-      "region_id": "08111",
-      "prob_foco": 0.017,
-      "percentil": 18.9,
-      "nivel": "bajo"
-    },
-    {
-      "region_id": "08112",
-      "prob_foco": 0.001,
-      "percentil": 26.6,
-      "nivel": "bajo"
-    },
-    {
-      "region_id": "08201",
-      "prob_foco": 0.001,
-      "percentil": 1.2,
-      "nivel": "bajo"
-    },
-    {
-      "region_id": "08202",
-      "prob_foco": 0.003,
-      "percentil": 0.5,
-      "nivel": "bajo"
-    },
-    {
-      "region_id": "08203",
-      "prob_foco": 0.01,
-      "percentil": 2.0,
-      "nivel": "bajo"
-    },
-    {
-      "region_id": "08204",
-      "prob_foco": 0.002,
       "percentil": 0.7,
       "nivel": "bajo"
     },
     {
-      "region_id": "08205",
-      "prob_foco": 0.003,
-      "percentil": 2.2,
-      "nivel": "bajo"
-    },
-    {
-      "region_id": "08206",
-      "prob_foco": 0.002,
-      "percentil": 3.0,
-      "nivel": "bajo"
-    },
-    {
-      "region_id": "08207",
-      "prob_foco": 0.03,
-      "percentil": 4.5,
-      "nivel": "bajo"
-    },
-    {
-      "region_id": "08301",
-      "prob_foco": 0.013,
-      "percentil": 0.5,
-      "nivel": "bajo"
-    },
-    {
-      "region_id": "08302",
-      "prob_foco": 0.004,
-      "percentil": 7.5,
-      "nivel": "bajo"
-    },
-    {
-      "region_id": "08303",
-      "prob_foco": 0.001,
-      "percentil": 1.2,
-      "nivel": "bajo"
-    },
-    {
-      "region_id": "08304",
-      "prob_foco": 0.002,
-      "percentil": 1.2,
-      "nivel": "bajo"
-    },
-    {
-      "region_id": "08305",
-      "prob_foco": 0.016,
-      "percentil": 0.0,
-      "nivel": "bajo"
-    },
-    {
-      "region_id": "08306",
-      "prob_foco": 0.001,
-      "percentil": 1.5,
-      "nivel": "bajo"
-    },
-    {
-      "region_id": "08307",
-      "prob_foco": 0.002,
-      "percentil": 1.5,
-      "nivel": "bajo"
-    },
-    {
-      "region_id": "08308",
-      "prob_foco": 0.002,
-      "percentil": 1.5,
-      "nivel": "bajo"
-    },
-    {
-      "region_id": "08309",
-      "prob_foco": 0.002,
-      "percentil": 2.5,
-      "nivel": "bajo"
-    },
-    {
-      "region_id": "08310",
-      "prob_foco": 0.001,
-      "percentil": 1.2,
-      "nivel": "bajo"
-    },
-    {
-      "region_id": "08311",
-      "prob_foco": 0.003,
-      "percentil": 1.7,
-      "nivel": "bajo"
-    },
-    {
-      "region_id": "08312",
-      "prob_foco": 0.004,
-      "percentil": 3.2,
-      "nivel": "bajo"
-    },
-    {
-      "region_id": "08313",
-      "prob_foco": 0.001,
-      "percentil": 0.0,
-      "nivel": "bajo"
-    },
-    {
-      "region_id": "08314",
-      "prob_foco": 0.022,
-      "percentil": 4.7,
-      "nivel": "bajo"
-    },
-    {
-      "region_id": "09101",
-      "prob_foco": 0.002,
-      "percentil": 2.5,
-      "nivel": "bajo"
-    },
-    {
-      "region_id": "09102",
-      "prob_foco": 0.003,
-      "percentil": 2.2,
-      "nivel": "bajo"
-    },
-    {
-      "region_id": "09103",
-      "prob_foco": 0.001,
-      "percentil": 1.2,
-      "nivel": "bajo"
-    },
-    {
-      "region_id": "09104",
-      "prob_foco": 0.001,
-      "percentil": 7.0,
-      "nivel": "bajo"
-    },
-    {
-      "region_id": "09105",
-      "prob_foco": 0.001,
-      "percentil": 2.2,
-      "nivel": "bajo"
-    },
-    {
-      "region_id": "09106",
-      "prob_foco": 0.007,
-      "percentil": 1.2,
-      "nivel": "bajo"
-    },
-    {
-      "region_id": "09107",
-      "prob_foco": 0.002,
-      "percentil": 1.7,
-      "nivel": "bajo"
-    },
-    {
-      "region_id": "09108",
-      "prob_foco": 0.002,
-      "percentil": 1.2,
-      "nivel": "bajo"
-    },
-    {
-      "region_id": "09109",
-      "prob_foco": 0.002,
-      "percentil": 4.0,
-      "nivel": "bajo"
-    },
-    {
-      "region_id": "09110",
-      "prob_foco": 0.0,
-      "percentil": 1.2,
-      "nivel": "bajo"
-    },
-    {
-      "region_id": "09111",
-      "prob_foco": 0.003,
-      "percentil": 2.7,
-      "nivel": "bajo"
-    },
-    {
-      "region_id": "09112",
-      "prob_foco": 0.001,
-      "percentil": 3.0,
-      "nivel": "bajo"
-    },
-    {
-      "region_id": "09113",
-      "prob_foco": 0.001,
-      "percentil": 1.2,
-      "nivel": "bajo"
-    },
-    {
-      "region_id": "09114",
-      "prob_foco": 0.003,
-      "percentil": 3.7,
-      "nivel": "bajo"
-    },
-    {
-      "region_id": "09115",
-      "prob_foco": 0.001,
-      "percentil": 2.7,
-      "nivel": "bajo"
-    },
-    {
-      "region_id": "09116",
-      "prob_foco": 0.003,
-      "percentil": 6.2,
-      "nivel": "bajo"
-    },
-    {
-      "region_id": "09117",
-      "prob_foco": 0.002,
-      "percentil": 3.7,
-      "nivel": "bajo"
-    },
-    {
-      "region_id": "09118",
-      "prob_foco": 0.002,
-      "percentil": 4.2,
-      "nivel": "bajo"
-    },
-    {
-      "region_id": "09119",
-      "prob_foco": 0.001,
-      "percentil": 1.2,
-      "nivel": "bajo"
-    },
-    {
-      "region_id": "09120",
-      "prob_foco": 0.003,
-      "percentil": 5.5,
-      "nivel": "bajo"
-    },
-    {
-      "region_id": "09121",
-      "prob_foco": 0.006,
-      "percentil": 3.0,
-      "nivel": "bajo"
-    },
-    {
-      "region_id": "09201",
-      "prob_foco": 0.002,
-      "percentil": 1.2,
-      "nivel": "bajo"
-    },
-    {
-      "region_id": "09202",
-      "prob_foco": 0.039,
-      "percentil": 3.0,
-      "nivel": "bajo"
-    },
-    {
-      "region_id": "09203",
-      "prob_foco": 0.001,
-      "percentil": 1.2,
-      "nivel": "bajo"
-    },
-    {
-      "region_id": "09204",
+      "region_id": "03102",
       "prob_foco": 0.009,
+      "percentil": 90.6,
+      "nivel": "bajo"
+    },
+    {
+      "region_id": "03103",
+      "prob_foco": 0.05,
+      "percentil": 62.9,
+      "nivel": "medio"
+    },
+    {
+      "region_id": "03201",
+      "prob_foco": 0.012,
+      "percentil": 7.2,
+      "nivel": "bajo"
+    },
+    {
+      "region_id": "03202",
+      "prob_foco": 0.03,
+      "percentil": 30.7,
+      "nivel": "bajo"
+    },
+    {
+      "region_id": "03301",
+      "prob_foco": 0.024,
+      "percentil": 33.7,
+      "nivel": "bajo"
+    },
+    {
+      "region_id": "03302",
+      "prob_foco": 0.005,
       "percentil": 0.5,
       "nivel": "bajo"
     },
     {
-      "region_id": "09205",
-      "prob_foco": 0.01,
+      "region_id": "03303",
+      "prob_foco": 0.005,
+      "percentil": 32.7,
+      "nivel": "bajo"
+    },
+    {
+      "region_id": "03304",
+      "prob_foco": 0.005,
+      "percentil": 26.0,
+      "nivel": "bajo"
+    },
+    {
+      "region_id": "04101",
+      "prob_foco": 0.014,
+      "percentil": 20.5,
+      "nivel": "bajo"
+    },
+    {
+      "region_id": "04102",
+      "prob_foco": 0.012,
+      "percentil": 75.5,
+      "nivel": "bajo"
+    },
+    {
+      "region_id": "04103",
+      "prob_foco": 0.002,
+      "percentil": 78.7,
+      "nivel": "bajo"
+    },
+    {
+      "region_id": "04104",
+      "prob_foco": 0.03,
       "percentil": 8.2,
       "nivel": "bajo"
     },
     {
-      "region_id": "09206",
-      "prob_foco": 0.003,
-      "percentil": 1.5,
-      "nivel": "bajo"
-    },
-    {
-      "region_id": "09207",
-      "prob_foco": 0.037,
-      "percentil": 6.0,
-      "nivel": "bajo"
-    },
-    {
-      "region_id": "09208",
-      "prob_foco": 0.003,
-      "percentil": 3.7,
-      "nivel": "bajo"
-    },
-    {
-      "region_id": "09209",
+      "region_id": "04105",
       "prob_foco": 0.001,
-      "percentil": 1.5,
+      "percentil": 1.0,
       "nivel": "bajo"
     },
     {
-      "region_id": "09210",
-      "prob_foco": 0.006,
-      "percentil": 1.2,
-      "nivel": "bajo"
-    },
-    {
-      "region_id": "09211",
-      "prob_foco": 0.004,
-      "percentil": 1.5,
-      "nivel": "bajo"
-    },
-    {
-      "region_id": "10101",
-      "prob_foco": 0.002,
-      "percentil": 8.0,
-      "nivel": "bajo"
-    },
-    {
-      "region_id": "10102",
-      "prob_foco": 0.003,
-      "percentil": 11.2,
-      "nivel": "bajo"
-    },
-    {
-      "region_id": "10103",
-      "prob_foco": 0.003,
-      "percentil": 20.1,
-      "nivel": "bajo"
-    },
-    {
-      "region_id": "10104",
+      "region_id": "04106",
       "prob_foco": 0.01,
-      "percentil": 26.9,
+      "percentil": 2.2,
       "nivel": "bajo"
     },
     {
-      "region_id": "10105",
-      "prob_foco": 0.001,
-      "percentil": 4.7,
+      "region_id": "04201",
+      "prob_foco": 0.002,
+      "percentil": 1.7,
       "nivel": "bajo"
     },
     {
-      "region_id": "10106",
+      "region_id": "04202",
       "prob_foco": 0.003,
       "percentil": 11.4,
       "nivel": "bajo"
     },
     {
-      "region_id": "10107",
+      "region_id": "04203",
+      "prob_foco": 0.007,
+      "percentil": 6.7,
+      "nivel": "bajo"
+    },
+    {
+      "region_id": "04204",
+      "prob_foco": 0.003,
+      "percentil": 2.0,
+      "nivel": "bajo"
+    },
+    {
+      "region_id": "04301",
+      "prob_foco": 0.05,
+      "percentil": 6.7,
+      "nivel": "medio"
+    },
+    {
+      "region_id": "04302",
+      "prob_foco": 0.005,
+      "percentil": 12.4,
+      "nivel": "bajo"
+    },
+    {
+      "region_id": "04303",
+      "prob_foco": 0.005,
+      "percentil": 1.0,
+      "nivel": "bajo"
+    },
+    {
+      "region_id": "04304",
+      "prob_foco": 0.016,
+      "percentil": 39.6,
+      "nivel": "bajo"
+    },
+    {
+      "region_id": "04305",
       "prob_foco": 0.002,
-      "percentil": 7.5,
+      "percentil": 2.5,
       "nivel": "bajo"
     },
     {
-      "region_id": "10108",
-      "prob_foco": 0.003,
-      "percentil": 8.7,
+      "region_id": "05101",
+      "prob_foco": 0.029,
+      "percentil": 67.6,
       "nivel": "bajo"
     },
     {
-      "region_id": "10109",
-      "prob_foco": 0.003,
-      "percentil": 12.7,
+      "region_id": "05102",
+      "prob_foco": 0.03,
+      "percentil": 27.5,
       "nivel": "bajo"
     },
     {
-      "region_id": "10201",
-      "prob_foco": 0.012,
-      "percentil": 32.3,
+      "region_id": "05103",
+      "prob_foco": 0.002,
+      "percentil": 59.4,
       "nivel": "bajo"
     },
     {
-      "region_id": "10202",
+      "region_id": "05104",
+      "prob_foco": 0.001,
+      "percentil": 81.2,
+      "nivel": "bajo"
+    },
+    {
+      "region_id": "05105",
       "prob_foco": 0.009,
-      "percentil": 27.9,
+      "percentil": 71.0,
       "nivel": "bajo"
     },
     {
-      "region_id": "10203",
-      "prob_foco": 0.022,
-      "percentil": 58.0,
+      "region_id": "05107",
+      "prob_foco": 0.009,
+      "percentil": 59.9,
       "nivel": "bajo"
     },
     {
-      "region_id": "10204",
-      "prob_foco": 0.006,
+      "region_id": "05109",
+      "prob_foco": 0.007,
+      "percentil": 18.6,
+      "nivel": "bajo"
+    },
+    {
+      "region_id": "05201",
+      "prob_foco": 0.003,
+      "percentil": 4.0,
+      "nivel": "bajo"
+    },
+    {
+      "region_id": "05301",
+      "prob_foco": 0.001,
+      "percentil": 6.7,
+      "nivel": "bajo"
+    },
+    {
+      "region_id": "05302",
+      "prob_foco": 0.009,
+      "percentil": 49.8,
+      "nivel": "bajo"
+    },
+    {
+      "region_id": "05303",
+      "prob_foco": 0.002,
+      "percentil": 1.0,
+      "nivel": "bajo"
+    },
+    {
+      "region_id": "05304",
+      "prob_foco": 0.001,
+      "percentil": 0.2,
+      "nivel": "bajo"
+    },
+    {
+      "region_id": "05401",
+      "prob_foco": 0.011,
+      "percentil": 10.9,
+      "nivel": "bajo"
+    },
+    {
+      "region_id": "05402",
+      "prob_foco": 0.009,
+      "percentil": 4.5,
+      "nivel": "bajo"
+    },
+    {
+      "region_id": "05403",
+      "prob_foco": 0.005,
+      "percentil": 58.7,
+      "nivel": "bajo"
+    },
+    {
+      "region_id": "05404",
+      "prob_foco": 0.001,
+      "percentil": 1.0,
+      "nivel": "bajo"
+    },
+    {
+      "region_id": "05405",
+      "prob_foco": 0.009,
+      "percentil": 24.8,
+      "nivel": "bajo"
+    },
+    {
+      "region_id": "05501",
+      "prob_foco": 0.016,
+      "percentil": 23.0,
+      "nivel": "bajo"
+    },
+    {
+      "region_id": "05502",
+      "prob_foco": 0.004,
+      "percentil": 14.6,
+      "nivel": "bajo"
+    },
+    {
+      "region_id": "05503",
+      "prob_foco": 0.014,
+      "percentil": 19.1,
+      "nivel": "bajo"
+    },
+    {
+      "region_id": "05504",
+      "prob_foco": 0.009,
+      "percentil": 39.1,
+      "nivel": "bajo"
+    },
+    {
+      "region_id": "05506",
+      "prob_foco": 0.019,
+      "percentil": 23.3,
+      "nivel": "bajo"
+    },
+    {
+      "region_id": "05601",
+      "prob_foco": 0.03,
       "percentil": 50.0,
       "nivel": "bajo"
     },
     {
-      "region_id": "10205",
-      "prob_foco": 0.012,
-      "percentil": 30.6,
+      "region_id": "05602",
+      "prob_foco": 0.005,
+      "percentil": 74.5,
       "nivel": "bajo"
     },
     {
-      "region_id": "10206",
-      "prob_foco": 0.001,
-      "percentil": 69.4,
+      "region_id": "05603",
+      "prob_foco": 0.005,
+      "percentil": 12.4,
       "nivel": "bajo"
     },
     {
-      "region_id": "10207",
-      "prob_foco": 0.017,
-      "percentil": 88.1,
+      "region_id": "05604",
+      "prob_foco": 0.007,
+      "percentil": 70.8,
       "nivel": "bajo"
     },
     {
-      "region_id": "10208",
-      "prob_foco": 0.022,
-      "percentil": 58.0,
+      "region_id": "05605",
+      "prob_foco": 0.005,
+      "percentil": 66.3,
       "nivel": "bajo"
     },
     {
-      "region_id": "10209",
-      "prob_foco": 0.006,
-      "percentil": 26.6,
+      "region_id": "05606",
+      "prob_foco": 0.011,
+      "percentil": 61.1,
       "nivel": "bajo"
     },
     {
-      "region_id": "10210",
-      "prob_foco": 0.006,
-      "percentil": 53.0,
+      "region_id": "05701",
+      "prob_foco": 0.009,
+      "percentil": 3.0,
       "nivel": "bajo"
     },
     {
-      "region_id": "10301",
-      "prob_foco": 0.006,
-      "percentil": 6.5,
-      "nivel": "bajo"
-    },
-    {
-      "region_id": "10302",
+      "region_id": "05702",
       "prob_foco": 0.003,
-      "percentil": 10.7,
+      "percentil": 5.0,
       "nivel": "bajo"
     },
     {
-      "region_id": "10303",
+      "region_id": "05703",
+      "prob_foco": 0.01,
+      "percentil": 8.7,
+      "nivel": "bajo"
+    },
+    {
+      "region_id": "05704",
+      "prob_foco": 0.016,
+      "percentil": 12.4,
+      "nivel": "bajo"
+    },
+    {
+      "region_id": "05705",
+      "prob_foco": 0.005,
+      "percentil": 6.2,
+      "nivel": "bajo"
+    },
+    {
+      "region_id": "05706",
+      "prob_foco": 0.005,
+      "percentil": 13.6,
+      "nivel": "bajo"
+    },
+    {
+      "region_id": "05801",
+      "prob_foco": 0.022,
+      "percentil": 40.3,
+      "nivel": "bajo"
+    },
+    {
+      "region_id": "05802",
+      "prob_foco": 0.019,
+      "percentil": 29.0,
+      "nivel": "bajo"
+    },
+    {
+      "region_id": "05803",
+      "prob_foco": 0.019,
+      "percentil": 49.8,
+      "nivel": "bajo"
+    },
+    {
+      "region_id": "05804",
+      "prob_foco": 0.017,
+      "percentil": 46.8,
+      "nivel": "bajo"
+    },
+    {
+      "region_id": "06101",
+      "prob_foco": 0.007,
+      "percentil": 4.0,
+      "nivel": "bajo"
+    },
+    {
+      "region_id": "06102",
+      "prob_foco": 0.01,
+      "percentil": 2.2,
+      "nivel": "bajo"
+    },
+    {
+      "region_id": "06103",
+      "prob_foco": 0.016,
+      "percentil": 18.6,
+      "nivel": "bajo"
+    },
+    {
+      "region_id": "06104",
+      "prob_foco": 0.011,
+      "percentil": 11.1,
+      "nivel": "bajo"
+    },
+    {
+      "region_id": "06105",
+      "prob_foco": 0.003,
+      "percentil": 11.9,
+      "nivel": "bajo"
+    },
+    {
+      "region_id": "06106",
+      "prob_foco": 0.005,
+      "percentil": 4.0,
+      "nivel": "bajo"
+    },
+    {
+      "region_id": "06107",
+      "prob_foco": 0.067,
+      "percentil": 70.5,
+      "nivel": "medio"
+    },
+    {
+      "region_id": "06108",
+      "prob_foco": 0.001,
+      "percentil": 0.2,
+      "nivel": "bajo"
+    },
+    {
+      "region_id": "06109",
+      "prob_foco": 0.009,
+      "percentil": 8.4,
+      "nivel": "bajo"
+    },
+    {
+      "region_id": "06110",
+      "prob_foco": 0.002,
+      "percentil": 0.0,
+      "nivel": "bajo"
+    },
+    {
+      "region_id": "06111",
+      "prob_foco": 0.001,
+      "percentil": 4.7,
+      "nivel": "bajo"
+    },
+    {
+      "region_id": "06112",
+      "prob_foco": 0.026,
+      "percentil": 70.5,
+      "nivel": "bajo"
+    },
+    {
+      "region_id": "06113",
+      "prob_foco": 0.026,
+      "percentil": 26.7,
+      "nivel": "bajo"
+    },
+    {
+      "region_id": "06114",
+      "prob_foco": 0.009,
+      "percentil": 13.9,
+      "nivel": "bajo"
+    },
+    {
+      "region_id": "06115",
+      "prob_foco": 0.03,
+      "percentil": 23.0,
+      "nivel": "bajo"
+    },
+    {
+      "region_id": "06116",
+      "prob_foco": 0.001,
+      "percentil": 0.0,
+      "nivel": "bajo"
+    },
+    {
+      "region_id": "06117",
+      "prob_foco": 0.046,
+      "percentil": 23.8,
+      "nivel": "medio"
+    },
+    {
+      "region_id": "06201",
+      "prob_foco": 0.014,
+      "percentil": 60.6,
+      "nivel": "bajo"
+    },
+    {
+      "region_id": "06202",
+      "prob_foco": 0.03,
+      "percentil": 86.4,
+      "nivel": "bajo"
+    },
+    {
+      "region_id": "06203",
+      "prob_foco": 0.019,
+      "percentil": 63.9,
+      "nivel": "bajo"
+    },
+    {
+      "region_id": "06204",
+      "prob_foco": 0.039,
+      "percentil": 54.7,
+      "nivel": "bajo"
+    },
+    {
+      "region_id": "06205",
+      "prob_foco": 0.01,
+      "percentil": 83.9,
+      "nivel": "bajo"
+    },
+    {
+      "region_id": "06206",
+      "prob_foco": 0.011,
+      "percentil": 32.2,
+      "nivel": "bajo"
+    },
+    {
+      "region_id": "06301",
+      "prob_foco": 0.002,
+      "percentil": 0.7,
+      "nivel": "bajo"
+    },
+    {
+      "region_id": "06302",
+      "prob_foco": 0.026,
+      "percentil": 67.8,
+      "nivel": "bajo"
+    },
+    {
+      "region_id": "06303",
+      "prob_foco": 0.016,
+      "percentil": 10.1,
+      "nivel": "bajo"
+    },
+    {
+      "region_id": "06304",
+      "prob_foco": 0.016,
+      "percentil": 22.0,
+      "nivel": "bajo"
+    },
+    {
+      "region_id": "06305",
+      "prob_foco": 0.026,
+      "percentil": 26.2,
+      "nivel": "bajo"
+    },
+    {
+      "region_id": "06306",
+      "prob_foco": 0.017,
+      "percentil": 25.0,
+      "nivel": "bajo"
+    },
+    {
+      "region_id": "06307",
+      "prob_foco": 0.029,
+      "percentil": 44.8,
+      "nivel": "bajo"
+    },
+    {
+      "region_id": "06308",
+      "prob_foco": 0.016,
+      "percentil": 74.5,
+      "nivel": "bajo"
+    },
+    {
+      "region_id": "06309",
+      "prob_foco": 0.016,
+      "percentil": 76.2,
+      "nivel": "bajo"
+    },
+    {
+      "region_id": "06310",
+      "prob_foco": 0.03,
+      "percentil": 80.7,
+      "nivel": "bajo"
+    },
+    {
+      "region_id": "07101",
+      "prob_foco": 0.026,
+      "percentil": 51.7,
+      "nivel": "bajo"
+    },
+    {
+      "region_id": "07102",
+      "prob_foco": 0.022,
+      "percentil": 61.4,
+      "nivel": "bajo"
+    },
+    {
+      "region_id": "07103",
+      "prob_foco": 0.016,
+      "percentil": 27.7,
+      "nivel": "bajo"
+    },
+    {
+      "region_id": "07104",
+      "prob_foco": 0.016,
+      "percentil": 70.3,
+      "nivel": "bajo"
+    },
+    {
+      "region_id": "07105",
+      "prob_foco": 0.022,
+      "percentil": 43.3,
+      "nivel": "bajo"
+    },
+    {
+      "region_id": "07106",
+      "prob_foco": 0.016,
+      "percentil": 19.3,
+      "nivel": "bajo"
+    },
+    {
+      "region_id": "07107",
+      "prob_foco": 0.03,
+      "percentil": 64.4,
+      "nivel": "bajo"
+    },
+    {
+      "region_id": "07108",
+      "prob_foco": 0.046,
+      "percentil": 27.5,
+      "nivel": "medio"
+    },
+    {
+      "region_id": "07109",
+      "prob_foco": 0.001,
+      "percentil": 1.5,
+      "nivel": "bajo"
+    },
+    {
+      "region_id": "07110",
+      "prob_foco": 0.041,
+      "percentil": 34.4,
+      "nivel": "medio"
+    },
+    {
+      "region_id": "07201",
+      "prob_foco": 0.039,
+      "percentil": 17.8,
+      "nivel": "bajo"
+    },
+    {
+      "region_id": "07202",
+      "prob_foco": 0.011,
+      "percentil": 38.9,
+      "nivel": "bajo"
+    },
+    {
+      "region_id": "07203",
+      "prob_foco": 0.01,
+      "percentil": 18.3,
+      "nivel": "bajo"
+    },
+    {
+      "region_id": "07301",
+      "prob_foco": 0.022,
+      "percentil": 8.4,
+      "nivel": "bajo"
+    },
+    {
+      "region_id": "07302",
+      "prob_foco": 0.016,
+      "percentil": 22.8,
+      "nivel": "bajo"
+    },
+    {
+      "region_id": "07303",
+      "prob_foco": 0.005,
+      "percentil": 29.7,
+      "nivel": "bajo"
+    },
+    {
+      "region_id": "07304",
+      "prob_foco": 0.0,
+      "percentil": 0.0,
+      "nivel": "bajo"
+    },
+    {
+      "region_id": "07305",
+      "prob_foco": 0.011,
+      "percentil": 18.6,
+      "nivel": "bajo"
+    },
+    {
+      "region_id": "07306",
+      "prob_foco": 0.001,
+      "percentil": 1.7,
+      "nivel": "bajo"
+    },
+    {
+      "region_id": "07307",
+      "prob_foco": 0.019,
+      "percentil": 17.6,
+      "nivel": "bajo"
+    },
+    {
+      "region_id": "07308",
+      "prob_foco": 0.03,
+      "percentil": 36.9,
+      "nivel": "bajo"
+    },
+    {
+      "region_id": "07309",
+      "prob_foco": 0.014,
+      "percentil": 48.5,
+      "nivel": "bajo"
+    },
+    {
+      "region_id": "07401",
+      "prob_foco": 0.022,
+      "percentil": 10.6,
+      "nivel": "bajo"
+    },
+    {
+      "region_id": "07402",
+      "prob_foco": 0.026,
+      "percentil": 10.1,
+      "nivel": "bajo"
+    },
+    {
+      "region_id": "07403",
+      "prob_foco": 0.026,
+      "percentil": 9.7,
+      "nivel": "bajo"
+    },
+    {
+      "region_id": "07404",
+      "prob_foco": 0.026,
+      "percentil": 8.7,
+      "nivel": "bajo"
+    },
+    {
+      "region_id": "07405",
+      "prob_foco": 0.029,
+      "percentil": 15.3,
+      "nivel": "bajo"
+    },
+    {
+      "region_id": "07406",
+      "prob_foco": 0.05,
+      "percentil": 29.7,
+      "nivel": "medio"
+    },
+    {
+      "region_id": "07407",
+      "prob_foco": 0.019,
+      "percentil": 13.6,
+      "nivel": "bajo"
+    },
+    {
+      "region_id": "07408",
+      "prob_foco": 0.026,
+      "percentil": 22.8,
+      "nivel": "bajo"
+    },
+    {
+      "region_id": "08101",
+      "prob_foco": 0.019,
+      "percentil": 56.4,
+      "nivel": "bajo"
+    },
+    {
+      "region_id": "08102",
+      "prob_foco": 0.022,
+      "percentil": 32.4,
+      "nivel": "bajo"
+    },
+    {
+      "region_id": "08103",
+      "prob_foco": 0.003,
+      "percentil": 23.3,
+      "nivel": "bajo"
+    },
+    {
+      "region_id": "08104",
+      "prob_foco": 0.016,
+      "percentil": 13.9,
+      "nivel": "bajo"
+    },
+    {
+      "region_id": "08105",
+      "prob_foco": 0.03,
+      "percentil": 75.0,
+      "nivel": "bajo"
+    },
+    {
+      "region_id": "08106",
+      "prob_foco": 0.003,
+      "percentil": 13.9,
+      "nivel": "bajo"
+    },
+    {
+      "region_id": "08107",
+      "prob_foco": 0.026,
+      "percentil": 71.3,
+      "nivel": "bajo"
+    },
+    {
+      "region_id": "08108",
+      "prob_foco": 0.009,
+      "percentil": 22.0,
+      "nivel": "bajo"
+    },
+    {
+      "region_id": "08109",
+      "prob_foco": 0.016,
+      "percentil": 20.3,
+      "nivel": "bajo"
+    },
+    {
+      "region_id": "08110",
+      "prob_foco": 0.009,
+      "percentil": 66.8,
+      "nivel": "bajo"
+    },
+    {
+      "region_id": "08111",
+      "prob_foco": 0.046,
+      "percentil": 75.7,
+      "nivel": "medio"
+    },
+    {
+      "region_id": "08112",
+      "prob_foco": 0.001,
+      "percentil": 47.3,
+      "nivel": "bajo"
+    },
+    {
+      "region_id": "08201",
+      "prob_foco": 0.005,
+      "percentil": 10.6,
+      "nivel": "bajo"
+    },
+    {
+      "region_id": "08202",
+      "prob_foco": 0.046,
+      "percentil": 24.8,
+      "nivel": "medio"
+    },
+    {
+      "region_id": "08203",
+      "prob_foco": 0.011,
+      "percentil": 8.9,
+      "nivel": "bajo"
+    },
+    {
+      "region_id": "08204",
+      "prob_foco": 0.011,
+      "percentil": 10.6,
+      "nivel": "bajo"
+    },
+    {
+      "region_id": "08205",
+      "prob_foco": 0.019,
+      "percentil": 18.8,
+      "nivel": "bajo"
+    },
+    {
+      "region_id": "08206",
+      "prob_foco": 0.003,
+      "percentil": 5.4,
+      "nivel": "bajo"
+    },
+    {
+      "region_id": "08207",
+      "prob_foco": 0.039,
+      "percentil": 14.6,
+      "nivel": "bajo"
+    },
+    {
+      "region_id": "08301",
+      "prob_foco": 0.041,
+      "percentil": 9.9,
+      "nivel": "medio"
+    },
+    {
+      "region_id": "08302",
       "prob_foco": 0.001,
       "percentil": 3.2,
       "nivel": "bajo"
     },
     {
-      "region_id": "10304",
+      "region_id": "08303",
+      "prob_foco": 0.007,
+      "percentil": 9.4,
+      "nivel": "bajo"
+    },
+    {
+      "region_id": "08304",
+      "prob_foco": 0.014,
+      "percentil": 21.0,
+      "nivel": "bajo"
+    },
+    {
+      "region_id": "08305",
+      "prob_foco": 0.026,
+      "percentil": 8.9,
+      "nivel": "bajo"
+    },
+    {
+      "region_id": "08306",
+      "prob_foco": 0.016,
+      "percentil": 16.8,
+      "nivel": "bajo"
+    },
+    {
+      "region_id": "08307",
+      "prob_foco": 0.005,
+      "percentil": 6.2,
+      "nivel": "bajo"
+    },
+    {
+      "region_id": "08308",
       "prob_foco": 0.002,
-      "percentil": 6.0,
+      "percentil": 7.7,
+      "nivel": "bajo"
+    },
+    {
+      "region_id": "08309",
+      "prob_foco": 0.003,
+      "percentil": 7.7,
+      "nivel": "bajo"
+    },
+    {
+      "region_id": "08310",
+      "prob_foco": 0.002,
+      "percentil": 11.4,
+      "nivel": "bajo"
+    },
+    {
+      "region_id": "08311",
+      "prob_foco": 0.009,
+      "percentil": 9.4,
+      "nivel": "bajo"
+    },
+    {
+      "region_id": "08312",
+      "prob_foco": 0.003,
+      "percentil": 7.7,
+      "nivel": "bajo"
+    },
+    {
+      "region_id": "08313",
+      "prob_foco": 0.014,
+      "percentil": 14.9,
+      "nivel": "bajo"
+    },
+    {
+      "region_id": "08314",
+      "prob_foco": 0.007,
+      "percentil": 5.2,
+      "nivel": "bajo"
+    },
+    {
+      "region_id": "09101",
+      "prob_foco": 0.004,
+      "percentil": 7.4,
+      "nivel": "bajo"
+    },
+    {
+      "region_id": "09102",
+      "prob_foco": 0.005,
+      "percentil": 7.7,
+      "nivel": "bajo"
+    },
+    {
+      "region_id": "09103",
+      "prob_foco": 0.002,
+      "percentil": 8.2,
+      "nivel": "bajo"
+    },
+    {
+      "region_id": "09104",
+      "prob_foco": 0.001,
+      "percentil": 8.9,
+      "nivel": "bajo"
+    },
+    {
+      "region_id": "09105",
+      "prob_foco": 0.014,
+      "percentil": 19.6,
+      "nivel": "bajo"
+    },
+    {
+      "region_id": "09106",
+      "prob_foco": 0.016,
+      "percentil": 8.2,
+      "nivel": "bajo"
+    },
+    {
+      "region_id": "09107",
+      "prob_foco": 0.007,
+      "percentil": 13.6,
+      "nivel": "bajo"
+    },
+    {
+      "region_id": "09108",
+      "prob_foco": 0.004,
+      "percentil": 5.0,
+      "nivel": "bajo"
+    },
+    {
+      "region_id": "09109",
+      "prob_foco": 0.014,
+      "percentil": 32.4,
+      "nivel": "bajo"
+    },
+    {
+      "region_id": "09110",
+      "prob_foco": 0.001,
+      "percentil": 3.7,
+      "nivel": "bajo"
+    },
+    {
+      "region_id": "09111",
+      "prob_foco": 0.009,
+      "percentil": 10.1,
+      "nivel": "bajo"
+    },
+    {
+      "region_id": "09112",
+      "prob_foco": 0.005,
+      "percentil": 12.4,
+      "nivel": "bajo"
+    },
+    {
+      "region_id": "09113",
+      "prob_foco": 0.003,
+      "percentil": 7.9,
+      "nivel": "bajo"
+    },
+    {
+      "region_id": "09114",
+      "prob_foco": 0.016,
+      "percentil": 22.5,
+      "nivel": "bajo"
+    },
+    {
+      "region_id": "09115",
+      "prob_foco": 0.001,
+      "percentil": 9.2,
+      "nivel": "bajo"
+    },
+    {
+      "region_id": "09116",
+      "prob_foco": 0.002,
+      "percentil": 9.9,
+      "nivel": "bajo"
+    },
+    {
+      "region_id": "09117",
+      "prob_foco": 0.004,
+      "percentil": 11.4,
+      "nivel": "bajo"
+    },
+    {
+      "region_id": "09118",
+      "prob_foco": 0.002,
+      "percentil": 9.7,
+      "nivel": "bajo"
+    },
+    {
+      "region_id": "09119",
+      "prob_foco": 0.003,
+      "percentil": 8.9,
+      "nivel": "bajo"
+    },
+    {
+      "region_id": "09120",
+      "prob_foco": 0.002,
+      "percentil": 13.1,
+      "nivel": "bajo"
+    },
+    {
+      "region_id": "09121",
+      "prob_foco": 0.022,
+      "percentil": 20.0,
+      "nivel": "bajo"
+    },
+    {
+      "region_id": "09201",
+      "prob_foco": 0.011,
+      "percentil": 8.9,
+      "nivel": "bajo"
+    },
+    {
+      "region_id": "09202",
+      "prob_foco": 0.067,
+      "percentil": 11.1,
+      "nivel": "medio"
+    },
+    {
+      "region_id": "09203",
+      "prob_foco": 0.001,
+      "percentil": 4.5,
+      "nivel": "bajo"
+    },
+    {
+      "region_id": "09204",
+      "prob_foco": 0.025,
+      "percentil": 10.4,
+      "nivel": "bajo"
+    },
+    {
+      "region_id": "09205",
+      "prob_foco": 0.016,
+      "percentil": 27.2,
+      "nivel": "bajo"
+    },
+    {
+      "region_id": "09206",
+      "prob_foco": 0.012,
+      "percentil": 11.9,
+      "nivel": "bajo"
+    },
+    {
+      "region_id": "09207",
+      "prob_foco": 0.046,
+      "percentil": 21.0,
+      "nivel": "medio"
+    },
+    {
+      "region_id": "09208",
+      "prob_foco": 0.011,
+      "percentil": 11.6,
+      "nivel": "bajo"
+    },
+    {
+      "region_id": "09209",
+      "prob_foco": 0.009,
+      "percentil": 13.4,
+      "nivel": "bajo"
+    },
+    {
+      "region_id": "09210",
+      "prob_foco": 0.016,
+      "percentil": 7.9,
+      "nivel": "bajo"
+    },
+    {
+      "region_id": "09211",
+      "prob_foco": 0.009,
+      "percentil": 7.2,
+      "nivel": "bajo"
+    },
+    {
+      "region_id": "10101",
+      "prob_foco": 0.001,
+      "percentil": 9.7,
+      "nivel": "bajo"
+    },
+    {
+      "region_id": "10102",
+      "prob_foco": 0.002,
+      "percentil": 18.1,
+      "nivel": "bajo"
+    },
+    {
+      "region_id": "10103",
+      "prob_foco": 0.0,
+      "percentil": 1.7,
+      "nivel": "bajo"
+    },
+    {
+      "region_id": "10104",
+      "prob_foco": 0.002,
+      "percentil": 19.8,
+      "nivel": "bajo"
+    },
+    {
+      "region_id": "10105",
+      "prob_foco": 0.002,
+      "percentil": 13.9,
+      "nivel": "bajo"
+    },
+    {
+      "region_id": "10106",
+      "prob_foco": 0.001,
+      "percentil": 6.9,
+      "nivel": "bajo"
+    },
+    {
+      "region_id": "10107",
+      "prob_foco": 0.002,
+      "percentil": 14.9,
+      "nivel": "bajo"
+    },
+    {
+      "region_id": "10108",
+      "prob_foco": 0.002,
+      "percentil": 12.1,
+      "nivel": "bajo"
+    },
+    {
+      "region_id": "10109",
+      "prob_foco": 0.001,
+      "percentil": 9.2,
+      "nivel": "bajo"
+    },
+    {
+      "region_id": "10201",
+      "prob_foco": 0.001,
+      "percentil": 6.4,
+      "nivel": "bajo"
+    },
+    {
+      "region_id": "10202",
+      "prob_foco": 0.005,
+      "percentil": 39.4,
+      "nivel": "bajo"
+    },
+    {
+      "region_id": "10203",
+      "prob_foco": 0.001,
+      "percentil": 13.9,
+      "nivel": "bajo"
+    },
+    {
+      "region_id": "10204",
+      "prob_foco": 0.001,
+      "percentil": 18.1,
+      "nivel": "bajo"
+    },
+    {
+      "region_id": "10205",
+      "prob_foco": 0.005,
+      "percentil": 36.6,
+      "nivel": "bajo"
+    },
+    {
+      "region_id": "10206",
+      "prob_foco": 0.0,
+      "percentil": 11.6,
+      "nivel": "bajo"
+    },
+    {
+      "region_id": "10207",
+      "prob_foco": 0.001,
+      "percentil": 14.4,
+      "nivel": "bajo"
+    },
+    {
+      "region_id": "10208",
+      "prob_foco": 0.001,
+      "percentil": 11.1,
+      "nivel": "bajo"
+    },
+    {
+      "region_id": "10209",
+      "prob_foco": 0.002,
+      "percentil": 24.5,
+      "nivel": "bajo"
+    },
+    {
+      "region_id": "10210",
+      "prob_foco": 0.002,
+      "percentil": 49.0,
+      "nivel": "bajo"
+    },
+    {
+      "region_id": "10301",
+      "prob_foco": 0.003,
+      "percentil": 11.9,
+      "nivel": "bajo"
+    },
+    {
+      "region_id": "10302",
+      "prob_foco": 0.001,
+      "percentil": 9.7,
+      "nivel": "bajo"
+    },
+    {
+      "region_id": "10303",
+      "prob_foco": 0.009,
+      "percentil": 24.8,
+      "nivel": "bajo"
+    },
+    {
+      "region_id": "10304",
+      "prob_foco": 0.001,
+      "percentil": 6.4,
       "nivel": "bajo"
     },
     {
       "region_id": "10305",
-      "prob_foco": 0.003,
-      "percentil": 5.5,
+      "prob_foco": 0.01,
+      "percentil": 28.0,
       "nivel": "bajo"
     },
     {
       "region_id": "10306",
       "prob_foco": 0.002,
-      "percentil": 13.2,
+      "percentil": 19.8,
       "nivel": "bajo"
     },
     {
       "region_id": "10307",
-      "prob_foco": 0.001,
-      "percentil": 3.0,
+      "prob_foco": 0.002,
+      "percentil": 10.1,
       "nivel": "bajo"
     },
     {
       "region_id": "10401",
-      "prob_foco": 0.017,
-      "percentil": 60.9,
+      "prob_foco": 0.0,
+      "percentil": 3.7,
       "nivel": "bajo"
     },
     {
       "region_id": "10402",
-      "prob_foco": 0.003,
-      "percentil": 38.8,
+      "prob_foco": 0.001,
+      "percentil": 9.4,
       "nivel": "bajo"
     },
     {
       "region_id": "10403",
-      "prob_foco": 0.001,
-      "percentil": 17.4,
+      "prob_foco": 0.0,
+      "percentil": 4.5,
       "nivel": "bajo"
     },
     {
       "region_id": "10404",
-      "prob_foco": 0.022,
-      "percentil": 53.0,
+      "prob_foco": 0.002,
+      "percentil": 21.8,
       "nivel": "bajo"
     },
     {
       "region_id": "11101",
-      "prob_foco": 0.009,
-      "percentil": 67.2,
+      "prob_foco": 0.001,
+      "percentil": 4.0,
       "nivel": "bajo"
     },
     {
       "region_id": "11102",
-      "prob_foco": 0.009,
-      "percentil": 50.2,
+      "prob_foco": 0.001,
+      "percentil": 2.7,
       "nivel": "bajo"
     },
     {
       "region_id": "11201",
-      "prob_foco": 0.009,
-      "percentil": 54.7,
+      "prob_foco": 0.0,
+      "percentil": 3.5,
       "nivel": "bajo"
     },
     {
       "region_id": "11202",
-      "prob_foco": 0.012,
-      "percentil": 71.1,
+      "prob_foco": 0.0,
+      "percentil": 4.0,
       "nivel": "bajo"
     },
     {
       "region_id": "11203",
-      "prob_foco": 0.001,
-      "percentil": 96.0,
+      "prob_foco": 0.0,
+      "percentil": 29.7,
       "nivel": "bajo"
     },
     {
       "region_id": "11301",
-      "prob_foco": 0.02,
-      "percentil": 76.9,
+      "prob_foco": 0.002,
+      "percentil": 14.4,
       "nivel": "bajo"
     },
     {
       "region_id": "11302",
-      "prob_foco": 0.01,
-      "percentil": 66.2,
+      "prob_foco": 0.0,
+      "percentil": 1.5,
       "nivel": "bajo"
     },
     {
       "region_id": "11303",
-      "prob_foco": 0.001,
-      "percentil": 90.5,
+      "prob_foco": 0.0,
+      "percentil": 36.9,
       "nivel": "bajo"
     },
     {
       "region_id": "11401",
-      "prob_foco": 0.004,
-      "percentil": 39.1,
+      "prob_foco": 0.001,
+      "percentil": 3.5,
       "nivel": "bajo"
     },
     {
       "region_id": "11402",
-      "prob_foco": 0.003,
-      "percentil": 27.6,
+      "prob_foco": 0.001,
+      "percentil": 2.5,
       "nivel": "bajo"
     },
     {
       "region_id": "12101",
-      "prob_foco": 0.016,
-      "percentil": 91.3,
+      "prob_foco": 0.001,
+      "percentil": 7.4,
       "nivel": "bajo"
     },
     {
       "region_id": "12102",
       "prob_foco": 0.001,
-      "percentil": 77.4,
+      "percentil": 57.4,
       "nivel": "bajo"
     },
     {
       "region_id": "12103",
-      "prob_foco": 0.001,
-      "percentil": 94.0,
+      "prob_foco": 0.0,
+      "percentil": 30.4,
       "nivel": "bajo"
     },
     {
       "region_id": "12104",
-      "prob_foco": 0.043,
-      "percentil": 95.0,
-      "nivel": "medio"
+      "prob_foco": 0.016,
+      "percentil": 74.3,
+      "nivel": "bajo"
     },
     {
       "region_id": "12201",
       "prob_foco": 0.0,
-      "percentil": 39.3,
+      "percentil": 46.0,
       "nivel": "bajo"
     },
     {
       "region_id": "12301",
-      "prob_foco": 0.022,
-      "percentil": 92.5,
+      "prob_foco": 0.003,
+      "percentil": 21.3,
       "nivel": "bajo"
     },
     {
       "region_id": "12302",
-      "prob_foco": 0.022,
-      "percentil": 38.6,
+      "prob_foco": 0.026,
+      "percentil": 34.2,
       "nivel": "bajo"
     },
     {
       "region_id": "12303",
-      "prob_foco": 0.003,
-      "percentil": 97.5,
+      "prob_foco": 0.001,
+      "percentil": 50.2,
       "nivel": "bajo"
     },
     {
       "region_id": "12401",
-      "prob_foco": 0.001,
-      "percentil": 80.6,
+      "prob_foco": 0.0,
+      "percentil": 14.4,
       "nivel": "bajo"
     },
     {
       "region_id": "12402",
       "prob_foco": 0.001,
-      "percentil": 92.0,
+      "percentil": 62.9,
       "nivel": "bajo"
     },
     {
       "region_id": "13101",
       "prob_foco": 0.001,
-      "percentil": 34.3,
+      "percentil": 35.6,
       "nivel": "bajo"
     },
     {
       "region_id": "13102",
       "prob_foco": 0.003,
-      "percentil": 70.1,
+      "percentil": 91.3,
       "nivel": "bajo"
     },
     {
       "region_id": "13103",
       "prob_foco": 0.002,
-      "percentil": 6.5,
+      "percentil": 9.7,
       "nivel": "bajo"
     },
     {
       "region_id": "13104",
       "prob_foco": 0.001,
-      "percentil": 60.9,
+      "percentil": 49.8,
       "nivel": "bajo"
     },
     {
       "region_id": "13105",
       "prob_foco": 0.001,
-      "percentil": 41.0,
+      "percentil": 50.7,
       "nivel": "bajo"
     },
     {
       "region_id": "13106",
       "prob_foco": 0.002,
-      "percentil": 10.0,
+      "percentil": 11.6,
       "nivel": "bajo"
     },
     {
       "region_id": "13107",
       "prob_foco": 0.001,
-      "percentil": 34.8,
+      "percentil": 34.9,
       "nivel": "bajo"
     },
     {
       "region_id": "13108",
       "prob_foco": 0.001,
-      "percentil": 19.9,
+      "percentil": 58.9,
       "nivel": "bajo"
     },
     {
       "region_id": "13109",
       "prob_foco": 0.001,
-      "percentil": 20.1,
+      "percentil": 52.7,
       "nivel": "bajo"
     },
     {
       "region_id": "13110",
-      "prob_foco": 0.003,
-      "percentil": 9.0,
+      "prob_foco": 0.001,
+      "percentil": 1.5,
       "nivel": "bajo"
     },
     {
       "region_id": "13111",
       "prob_foco": 0.001,
-      "percentil": 41.8,
+      "percentil": 24.8,
       "nivel": "bajo"
     },
     {
       "region_id": "13112",
-      "prob_foco": 0.016,
-      "percentil": 9.2,
+      "prob_foco": 0.01,
+      "percentil": 6.7,
       "nivel": "bajo"
     },
     {
       "region_id": "13113",
       "prob_foco": 0.001,
-      "percentil": 28.4,
+      "percentil": 11.1,
       "nivel": "bajo"
     },
     {
       "region_id": "13114",
       "prob_foco": 0.001,
-      "percentil": 15.9,
+      "percentil": 8.4,
       "nivel": "bajo"
     },
     {
       "region_id": "13115",
-      "prob_foco": 0.004,
-      "percentil": 6.7,
+      "prob_foco": 0.001,
+      "percentil": 0.7,
       "nivel": "bajo"
     },
     {
       "region_id": "13116",
       "prob_foco": 0.001,
-      "percentil": 14.7,
+      "percentil": 16.6,
       "nivel": "bajo"
     },
     {
       "region_id": "13117",
       "prob_foco": 0.001,
-      "percentil": 14.9,
+      "percentil": 57.7,
       "nivel": "bajo"
     },
     {
       "region_id": "13118",
       "prob_foco": 0.001,
-      "percentil": 66.2,
+      "percentil": 48.8,
       "nivel": "bajo"
     },
     {
       "region_id": "13119",
-      "prob_foco": 0.022,
-      "percentil": 23.1,
+      "prob_foco": 0.026,
+      "percentil": 32.4,
       "nivel": "bajo"
     },
     {
       "region_id": "13120",
       "prob_foco": 0.001,
-      "percentil": 25.6,
+      "percentil": 10.6,
       "nivel": "bajo"
     },
     {
       "region_id": "13121",
       "prob_foco": 0.001,
-      "percentil": 62.7,
+      "percentil": 47.3,
       "nivel": "bajo"
     },
     {
       "region_id": "13122",
-      "prob_foco": 0.001,
-      "percentil": 46.8,
+      "prob_foco": 0.0,
+      "percentil": 1.2,
       "nivel": "bajo"
     },
     {
       "region_id": "13123",
       "prob_foco": 0.001,
-      "percentil": 25.9,
+      "percentil": 58.4,
       "nivel": "bajo"
     },
     {
       "region_id": "13124",
-      "prob_foco": 0.022,
-      "percentil": 12.4,
+      "prob_foco": 0.024,
+      "percentil": 14.9,
       "nivel": "bajo"
     },
     {
       "region_id": "13125",
-      "prob_foco": 0.009,
-      "percentil": 10.0,
+      "prob_foco": 0.004,
+      "percentil": 2.5,
       "nivel": "bajo"
     },
     {
       "region_id": "13126",
       "prob_foco": 0.001,
-      "percentil": 59.5,
+      "percentil": 58.7,
       "nivel": "bajo"
     },
     {
       "region_id": "13127",
       "prob_foco": 0.001,
-      "percentil": 21.4,
+      "percentil": 7.7,
       "nivel": "bajo"
     },
     {
       "region_id": "13128",
-      "prob_foco": 0.006,
-      "percentil": 15.7,
+      "prob_foco": 0.005,
+      "percentil": 10.1,
       "nivel": "bajo"
     },
     {
       "region_id": "13129",
       "prob_foco": 0.001,
-      "percentil": 21.9,
+      "percentil": 52.5,
       "nivel": "bajo"
     },
     {
       "region_id": "13130",
       "prob_foco": 0.001,
-      "percentil": 21.4,
+      "percentil": 52.2,
       "nivel": "bajo"
     },
     {
       "region_id": "13131",
       "prob_foco": 0.001,
-      "percentil": 5.7,
+      "percentil": 3.7,
       "nivel": "bajo"
     },
     {
       "region_id": "13132",
       "prob_foco": 0.001,
-      "percentil": 22.9,
+      "percentil": 55.7,
       "nivel": "bajo"
     },
     {
       "region_id": "13201",
-      "prob_foco": 0.009,
-      "percentil": 7.5,
+      "prob_foco": 0.002,
+      "percentil": 1.0,
       "nivel": "bajo"
     },
     {
       "region_id": "13202",
-      "prob_foco": 0.022,
-      "percentil": 13.4,
+      "prob_foco": 0.001,
+      "percentil": 0.0,
       "nivel": "bajo"
     },
     {
       "region_id": "13203",
-      "prob_foco": 0.003,
-      "percentil": 5.5,
+      "prob_foco": 0.001,
+      "percentil": 3.5,
       "nivel": "bajo"
     },
     {
       "region_id": "13301",
-      "prob_foco": 0.043,
-      "percentil": 5.0,
-      "nivel": "medio"
+      "prob_foco": 0.016,
+      "percentil": 1.5,
+      "nivel": "bajo"
     },
     {
       "region_id": "13302",
-      "prob_foco": 0.038,
-      "percentil": 16.9,
+      "prob_foco": 0.025,
+      "percentil": 7.9,
       "nivel": "bajo"
     },
     {
       "region_id": "13303",
-      "prob_foco": 0.043,
-      "percentil": 29.6,
-      "nivel": "medio"
+      "prob_foco": 0.03,
+      "percentil": 9.4,
+      "nivel": "bajo"
     },
     {
       "region_id": "13401",
-      "prob_foco": 0.022,
-      "percentil": 10.9,
+      "prob_foco": 0.009,
+      "percentil": 2.5,
       "nivel": "bajo"
     },
     {
       "region_id": "13402",
-      "prob_foco": 0.043,
-      "percentil": 31.3,
+      "prob_foco": 0.085,
+      "percentil": 80.7,
       "nivel": "medio"
     },
     {
       "region_id": "13403",
-      "prob_foco": 0.007,
-      "percentil": 4.2,
+      "prob_foco": 0.009,
+      "percentil": 11.6,
       "nivel": "bajo"
     },
     {
       "region_id": "13404",
-      "prob_foco": 0.043,
-      "percentil": 37.3,
+      "prob_foco": 0.085,
+      "percentil": 87.4,
       "nivel": "medio"
     },
     {
       "region_id": "13501",
-      "prob_foco": 0.076,
-      "percentil": 25.6,
+      "prob_foco": 0.093,
+      "percentil": 47.5,
       "nivel": "medio"
     },
     {
       "region_id": "13502",
-      "prob_foco": 0.022,
-      "percentil": 46.0,
+      "prob_foco": 0.039,
+      "percentil": 71.3,
       "nivel": "bajo"
     },
     {
       "region_id": "13503",
-      "prob_foco": 0.016,
-      "percentil": 6.7,
+      "prob_foco": 0.019,
+      "percentil": 23.8,
       "nivel": "bajo"
     },
     {
       "region_id": "13504",
-      "prob_foco": 0.017,
-      "percentil": 10.0,
+      "prob_foco": 0.022,
+      "percentil": 28.2,
       "nivel": "bajo"
     },
     {
       "region_id": "13505",
-      "prob_foco": 0.043,
-      "percentil": 49.3,
+      "prob_foco": 0.048,
+      "percentil": 54.5,
       "nivel": "medio"
     },
     {
       "region_id": "13601",
-      "prob_foco": 0.03,
-      "percentil": 36.3,
+      "prob_foco": 0.032,
+      "percentil": 53.2,
       "nivel": "bajo"
     },
     {
       "region_id": "13602",
-      "prob_foco": 0.021,
-      "percentil": 22.9,
+      "prob_foco": 0.026,
+      "percentil": 52.7,
       "nivel": "bajo"
     },
     {
       "region_id": "13603",
-      "prob_foco": 0.022,
-      "percentil": 16.4,
-      "nivel": "bajo"
+      "prob_foco": 0.085,
+      "percentil": 91.8,
+      "nivel": "medio"
     },
     {
       "region_id": "13604",
-      "prob_foco": 0.03,
-      "percentil": 23.1,
+      "prob_foco": 0.026,
+      "percentil": 22.8,
       "nivel": "bajo"
     },
     {
       "region_id": "13605",
-      "prob_foco": 0.015,
-      "percentil": 10.4,
+      "prob_foco": 0.025,
+      "percentil": 47.3,
       "nivel": "bajo"
     },
     {
       "region_id": "14101",
       "prob_foco": 0.001,
-      "percentil": 4.7,
+      "percentil": 11.9,
       "nivel": "bajo"
     },
     {
@@ -1868,212 +1868,212 @@
     },
     {
       "region_id": "14103",
-      "prob_foco": 0.003,
-      "percentil": 7.0,
+      "prob_foco": 0.005,
+      "percentil": 20.5,
       "nivel": "bajo"
     },
     {
       "region_id": "14104",
       "prob_foco": 0.003,
-      "percentil": 7.5,
+      "percentil": 17.3,
       "nivel": "bajo"
     },
     {
       "region_id": "14105",
-      "prob_foco": 0.001,
-      "percentil": 3.5,
+      "prob_foco": 0.002,
+      "percentil": 16.6,
       "nivel": "bajo"
     },
     {
       "region_id": "14106",
-      "prob_foco": 0.003,
-      "percentil": 7.5,
+      "prob_foco": 0.009,
+      "percentil": 26.0,
       "nivel": "bajo"
     },
     {
       "region_id": "14107",
-      "prob_foco": 0.001,
-      "percentil": 2.2,
+      "prob_foco": 0.003,
+      "percentil": 15.3,
       "nivel": "bajo"
     },
     {
       "region_id": "14108",
       "prob_foco": 0.001,
-      "percentil": 3.2,
+      "percentil": 7.4,
       "nivel": "bajo"
     },
     {
       "region_id": "14201",
-      "prob_foco": 0.002,
-      "percentil": 4.2,
+      "prob_foco": 0.009,
+      "percentil": 17.3,
       "nivel": "bajo"
     },
     {
       "region_id": "14202",
-      "prob_foco": 0.003,
-      "percentil": 10.7,
+      "prob_foco": 0.001,
+      "percentil": 7.4,
       "nivel": "bajo"
     },
     {
       "region_id": "14203",
-      "prob_foco": 0.003,
-      "percentil": 13.4,
+      "prob_foco": 0.001,
+      "percentil": 7.4,
       "nivel": "bajo"
     },
     {
       "region_id": "14204",
-      "prob_foco": 0.001,
-      "percentil": 4.0,
+      "prob_foco": 0.002,
+      "percentil": 13.6,
       "nivel": "bajo"
     },
     {
       "region_id": "15101",
-      "prob_foco": 0.022,
-      "percentil": 65.2,
+      "prob_foco": 0.011,
+      "percentil": 2.7,
       "nivel": "bajo"
     },
     {
       "region_id": "15102",
-      "prob_foco": 0.022,
-      "percentil": 6.2,
+      "prob_foco": 0.019,
+      "percentil": 4.0,
       "nivel": "bajo"
     },
     {
       "region_id": "15201",
-      "prob_foco": 0.021,
-      "percentil": 10.2,
+      "prob_foco": 0.024,
+      "percentil": 48.3,
       "nivel": "bajo"
     },
     {
       "region_id": "15202",
       "prob_foco": 0.016,
-      "percentil": 80.3,
+      "percentil": 86.1,
       "nivel": "bajo"
     },
     {
       "region_id": "16101",
-      "prob_foco": 0.009,
-      "percentil": 2.2,
+      "prob_foco": 0.016,
+      "percentil": 10.9,
       "nivel": "bajo"
     },
     {
       "region_id": "16102",
-      "prob_foco": 0.003,
-      "percentil": 0.5,
+      "prob_foco": 0.022,
+      "percentil": 19.1,
       "nivel": "bajo"
     },
     {
       "region_id": "16103",
-      "prob_foco": 0.003,
-      "percentil": 1.7,
+      "prob_foco": 0.005,
+      "percentil": 7.9,
       "nivel": "bajo"
     },
     {
       "region_id": "16104",
-      "prob_foco": 0.003,
-      "percentil": 1.7,
+      "prob_foco": 0.004,
+      "percentil": 7.2,
       "nivel": "bajo"
     },
     {
       "region_id": "16105",
-      "prob_foco": 0.001,
-      "percentil": 1.2,
+      "prob_foco": 0.004,
+      "percentil": 7.7,
       "nivel": "bajo"
     },
     {
       "region_id": "16106",
-      "prob_foco": 0.022,
-      "percentil": 7.0,
+      "prob_foco": 0.012,
+      "percentil": 9.9,
       "nivel": "bajo"
     },
     {
       "region_id": "16107",
-      "prob_foco": 0.001,
-      "percentil": 1.2,
+      "prob_foco": 0.005,
+      "percentil": 8.4,
       "nivel": "bajo"
     },
     {
       "region_id": "16108",
-      "prob_foco": 0.006,
-      "percentil": 3.2,
+      "prob_foco": 0.009,
+      "percentil": 8.4,
       "nivel": "bajo"
     },
     {
       "region_id": "16109",
-      "prob_foco": 0.004,
-      "percentil": 3.5,
+      "prob_foco": 0.005,
+      "percentil": 7.7,
       "nivel": "bajo"
     },
     {
       "region_id": "16201",
-      "prob_foco": 0.016,
-      "percentil": 35.1,
+      "prob_foco": 0.022,
+      "percentil": 73.8,
       "nivel": "bajo"
     },
     {
       "region_id": "16202",
-      "prob_foco": 0.007,
-      "percentil": 0.5,
+      "prob_foco": 0.026,
+      "percentil": 58.7,
       "nivel": "bajo"
     },
     {
       "region_id": "16203",
-      "prob_foco": 0.006,
-      "percentil": 3.0,
+      "prob_foco": 0.007,
+      "percentil": 7.9,
       "nivel": "bajo"
     },
     {
       "region_id": "16204",
-      "prob_foco": 0.003,
-      "percentil": 3.0,
+      "prob_foco": 0.007,
+      "percentil": 13.9,
       "nivel": "bajo"
     },
     {
       "region_id": "16205",
-      "prob_foco": 0.003,
-      "percentil": 9.0,
+      "prob_foco": 0.009,
+      "percentil": 56.2,
       "nivel": "bajo"
     },
     {
       "region_id": "16206",
-      "prob_foco": 0.007,
-      "percentil": 3.7,
+      "prob_foco": 0.019,
+      "percentil": 75.2,
       "nivel": "bajo"
     },
     {
       "region_id": "16207",
-      "prob_foco": 0.002,
-      "percentil": 2.0,
+      "prob_foco": 0.003,
+      "percentil": 7.7,
       "nivel": "bajo"
     },
     {
       "region_id": "16301",
-      "prob_foco": 0.021,
-      "percentil": 2.5,
-      "nivel": "bajo"
+      "prob_foco": 0.067,
+      "percentil": 43.8,
+      "nivel": "medio"
     },
     {
       "region_id": "16302",
-      "prob_foco": 0.02,
-      "percentil": 4.5,
+      "prob_foco": 0.016,
+      "percentil": 10.9,
       "nivel": "bajo"
     },
     {
       "region_id": "16303",
-      "prob_foco": 0.006,
-      "percentil": 1.2,
+      "prob_foco": 0.016,
+      "percentil": 9.4,
       "nivel": "bajo"
     },
     {
       "region_id": "16304",
-      "prob_foco": 0.006,
-      "percentil": 5.0,
+      "prob_foco": 0.003,
+      "percentil": 7.9,
       "nivel": "bajo"
     },
     {
       "region_id": "16305",
-      "prob_foco": 0.006,
-      "percentil": 1.2,
+      "prob_foco": 0.016,
+      "percentil": 9.2,
       "nivel": "bajo"
     }
   ]
