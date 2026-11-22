@@ -9,8 +9,8 @@ Chile, con su calendario mensual de actividad de quema. El código que los gener
 
 **URL base:** https://marcelo-corro.github.io/hackaton-nasa-2026-datos
 
-> **Estado actual: datos reales de las 345 comunas de Chile, actualizados todos los días** (contrato v0.8,
-> `"ejemplo": false`).
+> **Estado actual: datos reales de las 345 comunas de Chile, actualizados todos los días** (contrato v0.9 desde el
+> 23-11-2026, `"ejemplo": false`).
 > - **Actualización diaria** cerca de las 11:20 UTC (08:20 en Chile con horario de verano), con
 >   [GitHub Actions](.github/workflows/actualizar.yml). Si algo falla, queda en línea lo del día anterior.
 > - **Riesgo de focos por comuna** para mañana (24 h), mañana o pasado (48 h) y los próximos 7 días (orientativo).
@@ -35,7 +35,9 @@ Chile, con su calendario mensual de actividad de quema. El código que los gener
 | `/comunas.json` | Clima del último día, motivos del nivel y recomendaciones de cada comuna |
 | `/avance/activos.json` | Incendios con focos en los últimos 3 días y su zona probable de avance |
 | `/focos/{region_id}.csv` | Focos de la comuna, para descargar |
-| `/sectores/{region_id}.geojson`, `/sectores/{region_id}_focos.csv` | Sectores de las comunas de la Región de Valparaíso: rasgos, probabilidad de fuego y focos |
+| `/sectores/fijo/{region_id}.json`, `/sectores/dia/{region_id}.json` | Sectores de 1 km de las comunas de la Región de Valparaíso, en columnas: lo fijo (grilla, vegetación, interfaz, pendiente) y lo de cada día (probabilidad de fuego, historial, rasgos y recomendaciones). Desde el 23-11-2026 |
+| `/sectores/{region_id}.geojson` | Los mismos sectores en GeoJSON (formato anterior; se mantiene un tiempo, solo para Valparaíso) |
+| `/sectores/{region_id}_focos.csv` | Focos de incendio de cada sector, para el mapa de calor |
 | `/alertas/{codigo_region}.json` | Comunas y sectores a revisar primero en la región (por ahora solo `05`, Valparaíso) |
 | `/recomendaciones.json` | Textos de las recomendaciones, con el documento oficial de cada una |
 | `/metricas.json` | Desempeño del modelo de riesgo |
