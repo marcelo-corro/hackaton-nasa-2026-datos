@@ -12133,3 +12133,4 @@ fecha,hora_utc,lat,lon,sensor,satelite,confianza,frp,tipo
 2026-08-22,1752,-35.3147,-72.2705,VIIRS,NOAA20,nominal,4.8,0
 2026-08-22,1914,-35.3179,-72.2755,VIIRS,SNPP,nominal,8.7,0
 2026-08-22,1933,-35.3184,-72.2734,VIIRS,NOAA20,nominal,3.0,0
+2026-11-22,1910,-35.2311,-72.2769,VIIRS,NOAA20,nominal,2.7,0

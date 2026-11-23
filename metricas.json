@@ -1,5 +1,5 @@
 {
-  "contrato": "0.8",
+  "contrato": "0.9",
   "ejemplo": false,
   "modelo": "hgb_firms_clima_pronostico_v4",
   "periodo_prueba": "2022-2025",

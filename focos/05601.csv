@@ -1300,3 +1300,4 @@ fecha,hora_utc,lat,lon,sensor,satelite,confianza,frp,tipo
 2026-11-17,1904,-33.6176,-71.4729,VIIRS,NOAA20,nominal,6.8,0
 2026-11-17,1904,-33.6149,-71.4799,VIIRS,NOAA20,nominal,6.5,0
 2026-11-17,1904,-33.6122,-71.4868,VIIRS,NOAA20,nominal,6.8,0
+2026-11-22,1910,-33.6182,-71.4708,VIIRS,NOAA20,nominal,4.3,0
