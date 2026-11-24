@@ -1,7 +1,7 @@
 {
   "contrato": "0.9",
   "ejemplo": false,
-  "generado_utc": "2026-11-23T11:25:55Z",
+  "generado_utc": "2026-11-24T01:59:30Z",
   "periodo": {
     "desde": "2000-11",
     "hasta": "2025-12"
@@ -437,7 +437,7 @@
       "fuente": "Open-Meteo",
       "desde": "2026-11-17",
       "hasta": "2026-11-26",
-      "emitido_utc": "2026-11-23T11:23:10Z"
+      "emitido_utc": "2026-11-24T01:56:23Z"
     },
     "prueba_nueva": {
       "desde": "2026-01-02",
