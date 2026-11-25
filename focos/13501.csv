@@ -3039,3 +3039,4 @@ fecha,hora_utc,lat,lon,sensor,satelite,confianza,frp,tipo
 2026-11-17,1904,-33.7509,-71.1903,VIIRS,NOAA20,nominal,4.7,0
 2026-11-17,1904,-33.7497,-71.1843,VIIRS,NOAA20,nominal,4.2,0
 2026-11-17,1904,-33.7486,-71.1866,VIIRS,NOAA20,nominal,2.6,0
+2026-11-25,0552,-33.6778,-71.2181,VIIRS,NOAA20,nominal,0.6,0

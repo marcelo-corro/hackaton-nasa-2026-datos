@@ -8992,3 +8992,4 @@ fecha,hora_utc,lat,lon,sensor,satelite,confianza,frp,tipo
 2026-10-31,1921,-36.4718,-72.8775,VIIRS,NOAA20,nominal,7.1,0
 2026-11-10,1753,-36.7338,-72.8455,VIIRS,NOAA20,nominal,3.7,0
 2026-11-10,1753,-36.7311,-72.846,VIIRS,NOAA20,nominal,5.2,0
+2026-11-25,0552,-36.6735,-72.9832,VIIRS,NOAA20,nominal,2.7,0
