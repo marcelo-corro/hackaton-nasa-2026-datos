@@ -1,7 +1,7 @@
 {
   "contrato": "0.9",
   "ejemplo": false,
-  "generado_utc": "2026-11-26T11:27:05Z",
+  "generado_utc": "2026-11-27T11:27:21Z",
   "periodo": {
     "desde": "2000-11",
     "hasta": "2025-12"
@@ -415,7 +415,7 @@
     ],
     "modelo_b": {
       "modelo": "sectores_b_v1",
-      "fecha_prediccion": "2026-11-27",
+      "fecha_prediccion": "2026-11-28",
       "captura_top10_prueba": {
         "modelo_b": 44.78,
         "orden_a": 39.29,
@@ -427,8 +427,8 @@
     }
   },
   "datos": {
-    "valido_para": "2026-11-27",
-    "ultimo_dato_focos": "2026-11-26",
+    "valido_para": "2026-11-28",
+    "ultimo_dato_focos": "2026-11-27",
     "ultimo_dato_suomi_npp": "2026-11-01",
     "sustitucion_noaa20": true,
     "clima_hasta": "2026-11-16",
@@ -436,8 +436,8 @@
     "pronostico": {
       "fuente": "Open-Meteo",
       "desde": "2026-11-17",
-      "hasta": "2026-11-29",
-      "emitido_utc": "2026-11-26T11:23:22Z"
+      "hasta": "2026-11-30",
+      "emitido_utc": "2026-11-27T11:23:08Z"
     },
     "prueba_nueva": {
       "desde": "2026-01-02",
@@ -446,6 +446,6 @@
       "auc_climatologia": 0.8212,
       "precision_media": 0.3852
     },
-    "nota": "Focos satelitales hasta el 2026-11-26. Suomi NPP tiene datos solo hasta el 2026-11-01: los días siguientes usan NOAA-20 (mismo instrumento; en 2022-2025 el modelo rindió igual con él). El clima de NASA POWER llega hasta el 2026-11-16; los días siguientes y los que se predicen usan el pronóstico de Open-Meteo (hasta el 2026-11-29)."
+    "nota": "Focos satelitales hasta el 2026-11-27. Suomi NPP tiene datos solo hasta el 2026-11-01: los días siguientes usan NOAA-20 (mismo instrumento; en 2022-2025 el modelo rindió igual con él). El clima de NASA POWER llega hasta el 2026-11-16; los días siguientes y los que se predicen usan el pronóstico de Open-Meteo (hasta el 2026-11-30)."
   }
 }
