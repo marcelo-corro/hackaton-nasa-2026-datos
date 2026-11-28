@@ -1209,3 +1209,4 @@ fecha,hora_utc,lat,lon,sensor,satelite,confianza,frp,tipo
 2026-05-20,1851,-37.5854,-72.6175,VIIRS,NOAA20,nominal,3.2,0
 2026-09-15,1843,-37.5886,-72.5656,VIIRS,NOAA20,nominal,1.9,0
 2026-10-29,1817,-37.6503,-72.5672,VIIRS,NOAA20,nominal,4.0,0
+2026-11-27,1917,-37.6013,-72.5356,VIIRS,NOAA20,baja,3.8,0
